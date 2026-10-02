@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#243B5C">
+  <title>Indiana Mortgage Calculator | Matt Dzielski, Northwest Indiana Realtor</title>
+  <meta name="description" content="Free Indiana mortgage calculator with Northwest Indiana defaults — monthly payment with principal & interest, Indiana property tax (1% homestead cap), insurance, and PMI. By Matt Dzielski, Realtor with Banga Realty.">
+  <link rel="canonical" href="https://matthew-dzielski.github.io/matthew-dzielski-blog/calculator.html">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23243B5C'/%3E%3Cpath d='M32 13 13 29h7v19h9V35h6v13h9V29h7z' fill='%23ffffff'/%3E%3C/svg%3E">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Matthew Dzielski | Northwest Indiana Realtor">
+  <meta property="og:title" content="Indiana Mortgage Calculator | Matt Dzielski, Northwest Indiana Realtor">
+  <meta property="og:description" content="Run the real monthly numbers on a Northwest Indiana home — P&I, Indiana property tax, insurance, and PMI. Free, no signup.">
+  <meta property="og:url" content="https://matthew-dzielski.github.io/matthew-dzielski-blog/calculator.html">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Indiana Mortgage Calculator | Matt Dzielski, Northwest Indiana Realtor">
+  <meta name="twitter:description" content="Run the real monthly numbers on a Northwest Indiana home — P&I, Indiana property tax, insurance, and PMI. Free, no signup.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Indiana Mortgage Calculator",
+    "description": "Free Indiana mortgage calculator with Northwest Indiana defaults — monthly payment with principal & interest, Indiana property tax, insurance, and PMI.",
+    "url": "https://matthew-dzielski.github.io/matthew-dzielski-blog/calculator.html",
+    "inLanguage": "en-US",
+    "author": {
+      "@type": "RealEstateAgent",
+      "name": "Matthew Dzielski, Realtor",
+      "identifier": "Indiana Real Estate License RB26000281",
+      "telephone": "+1-219-356-6565",
+      "email": "matt@bangarealty.com",
+      "brand": { "@type": "Brand", "name": "Banga Realty" },
+      "areaServed": "Northwest Indiana, USA"
+    }
+  }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .calc-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      align-items: start;
+      margin-top: 2.5rem;
+    }
+    .calc-card {
+      background: #fff;
+      border-radius: var(--radius);
+      box-shadow: 0 6px 24px rgba(18, 36, 47, 0.07);
+      padding: 32px;
+    }
+    .calc-card h3 { margin-top: 0; }
+    .field { margin-bottom: 1.25rem; }
+    .field label {
+      display: block;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--navy);
+      margin-bottom: 0.4rem;
+    }
+    .field .hint {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+      font-weight: 400;
+    }
+    .field input[type="number"],
+    .field select {
+      width: 100%;
+      font: inherit;
+      padding: 12px 14px;
+      border: 1px solid #DCE4EA;
+      border-radius: 10px;
+      color: var(--text);
+      background: #FAFCFE;
+    }
+    .field input[type="number"]:focus,
+    .field select:focus {
+      outline: 2px solid var(--copper);
+      border-color: var(--copper);
+    }
+    .input-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .result-total {
+      font-family: var(--serif);
+      font-size: clamp(2.4rem, 4vw, 3.2rem);
+      color: var(--navy);
+      margin: 0.25rem 0 0.25rem;
+      line-height: 1.1;
+    }
+    .result-label {
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--copper);
+      margin: 0;
+    }
+    .breakdown { margin-top: 1.75rem; }
+    .breakdown-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 0;
+      border-top: 1px solid #E7EDF2;
+      font-size: 0.95rem;
+    }
+    .breakdown-row:last-child { border-bottom: 1px solid #E7EDF2; }
+    .breakdown-row .amt { font-weight: 700; color: var(--navy); }
+    .swatch {
+      display: inline-block;
+      width: 12px; height: 12px;
+      border-radius: 3px;
+      margin-right: 10px;
+      vertical-align: baseline;
+    }
+    .bar {
+      display: flex;
+      height: 14px;
+      border-radius: 999px;
+      overflow: hidden;
+      margin: 1.25rem 0 0.5rem;
+      background: #EDF1F5;
+    }
+    .bar span { display: block; height: 100%; }
+    .bar-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 16px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    .stat-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 1.75rem;
+    }
+    .stat {
+      background: #F3F7FB;
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .stat .k { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); font-weight: 700; }
+    .stat .v { font-size: 1.25rem; font-weight: 700; color: var(--navy); margin-top: 2px; }
+    .pmi-note {
+      background: #FFF7ED;
+      border: 1px solid #F5D9B8;
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 0.85rem;
+      color: #8A5A1E;
+      margin-top: 1.25rem;
+    }
+    .in-notes {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      margin-top: 2.5rem;
+    }
+    .in-note {
+      background: #fff;
+      border-radius: var(--radius);
+      padding: 24px;
+      box-shadow: 0 6px 24px rgba(18, 36, 47, 0.07);
+      border-top: 3px solid var(--copper);
+    }
+    .in-note h3 { margin-top: 0; font-size: 1.1rem; }
+    .in-note p { font-size: 0.92rem; color: var(--muted); margin-bottom: 0; }
+    .disclaimer { font-size: 0.82rem; color: var(--muted); font-style: italic; margin-top: 2rem; }
+    @media (max-width: 960px) {
+      .calc-grid { grid-template-columns: 1fr; }
+      .in-notes { grid-template-columns: 1fr; max-width: 560px; margin-left: auto; margin-right: auto; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="nav container" aria-label="Primary">
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-link">Home</a></li>
+        <li><a href="index.html#blog" class="nav-link">Blog</a></li>
+        <li><a href="calculator.html" class="nav-link active">Calculator</a></li>
+        <li><a href="index.html#about" class="nav-link">About</a></li>
+        <li><a href="index.html#contact" class="nav-link">Contact</a></li>
+      </ul>
+      <a class="phone-btn" href="tel:12193566565" aria-label="Call Matt at (219) 356-6565">
+        <svg class="phone-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.4 11.4 0 003.57.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.57 3.57a1 1 0 01-.25 1.02l-2.2 2.2z"/></svg>
+        (219) 356-6565
+      </a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="container" style="padding-top:72px; padding-bottom:72px;">
+      <p class="eyebrow">Homebuyer tools</p>
+      <h1>Indiana mortgage calculator</h1>
+      <p class="section-intro" style="margin-left:0; margin-bottom:0;">Before you fall in love with a house, run the real monthly numbers — not just principal and interest, but Indiana property tax, insurance, and PMI if your down payment is under 20%. Defaults are set for Northwest Indiana. No signup, nothing saved.</p>
+
+      <div class="calc-grid">
+        <div class="calc-card" aria-label="Calculator inputs">
+          <h3>Your numbers</h3>
+          <div class="field">
+            <label for="in-price">Home price</label>
+            <input type="number" id="in-price" value="277000" min="10000" step="1000" inputmode="numeric">
+          </div>
+          <div class="input-row">
+            <div class="field">
+              <label for="in-downpct">Down payment</label>
+              <input type="number" id="in-downpct" value="10" min="0" max="100" step="0.5" inputmode="decimal">
+              <p class="hint">Percent of home price</p>
+            </div>
+            <div class="field">
+              <label for="in-downamt">Down payment ($)</label>
+              <input type="number" id="in-downamt" value="27700" min="0" step="500" inputmode="numeric">
+              <p class="hint">Edits either box — they stay in sync</p>
+            </div>
+          </div>
+          <div class="input-row">
+            <div class="field">
+              <label for="in-rate">Interest rate</label>
+              <input type="number" id="in-rate" value="7.3" min="0" max="20" step="0.05" inputmode="decimal">
+              <p class="hint">APR, percent per year</p>
+            </div>
+            <div class="field">
+              <label for="in-term">Loan term</label>
+              <select id="in-term">
+                <option value="30" selected>30 years</option>
+                <option value="20">20 years</option>
+                <option value="15">15 years</option>
+              </select>
+            </div>
+          </div>
+          <div class="input-row">
+            <div class="field">
+              <label for="in-tax">Property tax rate</label>
+              <input type="number" id="in-tax" value="0.85" min="0" max="5" step="0.05" inputmode="decimal">
+              <p class="hint">% of home value per year. Indiana caps homesteads at 1%.</p>
+            </div>
+            <div class="field">
+              <label for="in-ins">Homeowner&rsquo;s insurance</label>
+              <input type="number" id="in-ins" value="1800" min="0" step="50" inputmode="numeric">
+              <p class="hint">Dollars per year</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="calc-card" aria-label="Calculator results" aria-live="polite">
+          <p class="result-label">Estimated monthly payment</p>
+          <p class="result-total" id="out-total">$0</p>
+          <div class="bar" aria-hidden="true">
+            <span id="bar-pi" style="background:#12242F"></span>
+            <span id="bar-tax" style="background:#B2572B"></span>
+            <span id="bar-ins" style="background:#2A9DB8"></span>
+            <span id="bar-pmi" style="background:#8E5AA8"></span>
+          </div>
+          <div class="bar-legend">
+            <span><span class="swatch" style="background:#12242F"></span>P&amp;I</span>
+            <span><span class="swatch" style="background:#B2572B"></span>Tax</span>
+            <span><span class="swatch" style="background:#2A9DB8"></span>Insurance</span>
+            <span id="legend-pmi"><span class="swatch" style="background:#8E5AA8"></span>PMI</span>
+          </div>
+          <div class="breakdown">
+            <div class="breakdown-row"><span><span class="swatch" style="background:#12242F"></span>Principal &amp; interest</span><span class="amt" id="out-pi">$0</span></div>
+            <div class="breakdown-row"><span><span class="swatch" style="background:#B2572B"></span>Property tax</span><span class="amt" id="out-tax">$0</span></div>
+            <div class="breakdown-row"><span><span class="swatch" style="background:#2A9DB8"></span>Homeowner&rsquo;s insurance</span><span class="amt" id="out-ins">$0</span></div>
+            <div class="breakdown-row" id="row-pmi"><span><span class="swatch" style="background:#8E5AA8"></span>PMI (est.)</span><span class="amt" id="out-pmi">$0</span></div>
+          </div>
+          <div class="stat-grid">
+            <div class="stat"><div class="k">Loan amount</div><div class="v" id="out-loan">$0</div></div>
+            <div class="stat"><div class="k">Total interest</div><div class="v" id="out-interest">$0</div></div>
+          </div>
+          <div class="pmi-note" id="pmi-note" hidden>Down payment is under 20%, so lenders typically require PMI — estimated here at 0.5% of the loan per year. It usually drops off once you reach 20% equity.</div>
+        </div>
+      </div>
+
+      <div class="in-notes">
+        <div class="in-note">
+          <h3>Indiana&rsquo;s 1% homestead cap</h3>
+          <p>Indiana caps property tax on your primary home at 1% of assessed value. The 0.85% default above reflects what most NWI homeowners actually pay after deductions — adjust it if you know your township&rsquo;s rate.</p>
+        </div>
+        <div class="in-note">
+          <h3>NWI numbers, not national averages</h3>
+          <p>Defaults start at a $277,000 home and a 7.3% rate — roughly today&rsquo;s Northwest Indiana market. Plug in the actual list price of a house you&rsquo;re eyeing and see what it really costs per month.</p>
+        </div>
+        <div class="in-note">
+          <h3>Want a second opinion?</h3>
+          <p>Calculators don&rsquo;t know about closing credits, buydowns, or first-time buyer programs. If the number looks close, <a href="index.html#contact">talk to me</a> before you decide — (219) 356-6565.</p>
+        </div>
+      </div>
+
+      <p class="disclaimer">Estimates only, for planning purposes — not a loan offer or commitment. Taxes, insurance, and PMI vary by property and lender. I&rsquo;m a Realtor, not a lender; confirm final numbers with your mortgage professional. Indiana license RB26000281.</p>
+    </section>
+
+    <section class="contact-band">
+      <div class="container">
+        <p class="eyebrow light">Contact</p>
+        <h2 class="light">Ran the numbers and feeling good about it?</h2>
+        <p class="contact-intro">Let&rsquo;s talk about what that monthly payment buys you in Northwest Indiana right now.</p>
+        <div class="contact-rows">
+          <a class="contact-row" href="tel:12193566565"><span><strong>Call or text</strong> (219) 356-6565</span><span class="tile-arrow">&rarr;</span></a>
+          <a class="contact-row" href="mailto:matt@bangarealty.com"><span><strong>Email</strong> matt@bangarealty.com</span><span class="tile-arrow">&rarr;</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; 2026 Matthew Dzielski, Realtor &middot; Banga Realty &middot; IN Lic. RB26000281</p>
+      <div class="footer-links">
+        <a href="index.html">Home</a> &middot;
+        <a href="index.html#blog">Blog</a> &middot;
+        <a href="index.html#contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+  (function () {
+    var $ = function (id) { return document.getElementById(id); };
+    var price = $('in-price'), downPct = $('in-downpct'), downAmt = $('in-downamt'),
+        rate = $('in-rate'), term = $('in-term'), tax = $('in-tax'), ins = $('in-ins');
+
+    function num(el, fallback) {
+      var v = parseFloat(el.value);
+      return isFinite(v) && v >= 0 ? v : fallback;
+    }
+    function money(n) {
+      return '$' + Math.round(n).toLocaleString('en-US');
+    }
+
+    function calc() {
+      var p = num(price, 277000);
+      var dp = num(downPct, 10);
+      if (dp > 100) dp = 100;
+      var down = p * dp / 100;
+      // keep the dollar box in sync (unless the user is editing it)
+      if (document.activeElement !== downAmt) downAmt.value = Math.round(down);
+
+      var loan = Math.max(p - down, 0);
+      var r = num(rate, 7.3) / 100 / 12;
+      var n = parseInt(term.value, 10) * 12;
+      var pi = 0;
+      if (loan > 0 && n > 0) {
+        pi = r > 0 ? loan * r * Math.pow(1 + r, n) / (Math.pow(1 + r, n) - 1) : loan / n;
+      }
+      var taxMo = p * num(tax, 0.85) / 100 / 12;
+      var insMo = num(ins, 1800) / 12;
+      var pmiMo = 0, hasPmi = dp < 20 && loan > 0;
+      if (hasPmi) pmiMo = loan * 0.005 / 12;
+
+      var total = pi + taxMo + insMo + pmiMo;
+      var totalInterest = pi * n - loan;
+
+      $('out-total').textContent = money(total);
+      $('out-pi').textContent = money(pi);
+      $('out-tax').textContent = money(taxMo);
+      $('out-ins').textContent = money(insMo);
+      $('out-pmi').textContent = money(pmiMo);
+      $('out-loan').textContent = money(loan);
+      $('out-interest').textContent = money(Math.max(totalInterest, 0));
+
+      $('row-pmi').style.display = hasPmi ? '' : 'none';
+      $('legend-pmi').style.display = hasPmi ? '' : 'none';
+      $('pmi-note').hidden = !hasPmi;
+
+      var t = total > 0 ? total : 1;
+      $('bar-pi').style.width = (pi / t * 100) + '%';
+      $('bar-tax').style.width = (taxMo / t * 100) + '%';
+      $('bar-ins').style.width = (insMo / t * 100) + '%';
+      $('bar-pmi').style.width = (pmiMo / t * 100) + '%';
+    }
+
+    // editing the dollar down-payment box back-fills the percent box
+    downAmt.addEventListener('input', function () {
+      var p = num(price, 277000);
+      var d = num(downAmt, 0);
+      if (p > 0) downPct.value = (d / p * 100).toFixed(1);
+      calc();
+    });
+
+    [price, downPct, rate, term, tax, ins].forEach(function (el) {
+      el.addEventListener('input', calc);
+      el.addEventListener('change', calc);
+    });
+
+    calc();
+  })();
+  </script>
+</body>
+</html>
