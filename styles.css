@@ -149,6 +149,7 @@ section { padding: 88px 0; }
   height: 112px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: 50% 18%;
   flex: none;
   box-shadow: 0 6px 20px rgba(18, 36, 47, 0.15);
 }
