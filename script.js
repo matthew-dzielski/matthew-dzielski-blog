@@ -73,6 +73,22 @@ var ARTICLES = {
       "<p class=\"fine-print\">Neighborhood information changes. Verify details that matter to your decision with the responsible official source.</p>",
       SIGNOFF
     ]
+  },
+  "article-4": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What I\u2019d tell my neighbor about buying in Northwest Indiana with rates back over 7%",
+    body: [
+      "<p>Indiana\u2019s 30-year mortgage rate is back over 7.3%. It was about 7.3% on October 1st, up about two-tenths of a point in a single week. Back in July, the Indiana Association of Realtors was talking about rates around 6.25%.</p>",
+      "<p>So yes \u2014 rates moved. And yes, that changes your monthly payment. On a $277,000 home, which is right around Northwest Indiana\u2019s median price, the difference between 6.25% and 7.3% is roughly $190 a month. That\u2019s real money.</p>",
+      "<p>Here\u2019s what I tell people anyway: don\u2019t let the rate talk you out of buying.</p>",
+      "<p>Every year I watch buyers sit on the sidelines waiting for some magic number, and every year the houses they liked get bought by somebody who ran the math and decided it worked. The Indiana Association of Realtors found that most of this year\u2019s buyers were already homeowners \u2014 people who sold one place and bought the next, rolling their equity into the move. That\u2019s 3,797 closed sales in Northwest Indiana in the first half of this year, up 2% from last year. The market didn\u2019t stop. It never does here.</p>",
+      "<p>The rate isn\u2019t permanent. You can refinance when \u2014 if \u2014 rates come down. But the price you paid is forever, and so is the equity you build while everyone else is waiting.</p>",
+      "<p>My one piece of real advice: get pre-approved before you browse a single listing. In a 7.3% market, the difference between \u201cI\u2019m thinking about it\u201d and \u201cI\u2019m pre-approved at X\u201d is the difference between getting the house in Highland or Munster and watching it go pending on Sunday night. Sellers and their agents take pre-approved offers seriously. Casual browsers get passed over.</p>",
+      "<p>If you\u2019re selling, the message is different but just as simple: price it right the first time. Buyers today know exactly what your asking price costs them per month. Overprice it and you\u2019ll watch it sit while the well-priced homes \u2014 the ones in that $250k to $750k range \u2014 get snapped up three times faster.</p>",
+      "<p>October isn\u2019t a bad time to be in this market. It\u2019s just an honest one.</p>",
+      SIGNOFF
+    ]
   }
 };
 
