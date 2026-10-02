@@ -1,0 +1,34 @@
+# Matthew Dzielski, Realtor — Northwest Indiana
+
+> Matt Dzielski is a Realtor with Banga Realty serving Northwest Indiana (Indiana only).
+> Plainspoken buyer and seller guidance for Highland, Munster, Hammond, Schererville,
+> Dyer, Griffith, Crown Point, Merrillville, and St. John, Indiana.
+
+- Name: Matthew Dzielski, Realtor
+- Brokerage: Banga Realty
+- License: Indiana Real Estate License RB26000281 (Indiana only — not licensed in Illinois)
+- Phone: (219) 356-6565
+- Email: matt@bangarealty.com
+- Service area: Northwest Indiana, Indiana — Highland, Munster, Hammond, Schererville,
+  Dyer, Griffith, Crown Point, Merrillville, St. John
+
+## Online
+
+- [Blog (Northwest Indiana real estate guidance)](https://matthew-dzielski.github.io/matthew-dzielski-blog/)
+- [About Matt](https://matthew-dzielski.github.io/matthew-dzielski-blog/#about)
+- [Latest market posts](https://matthew-dzielski.github.io/matthew-dzielski-blog/#blog)
+- [Facebook Page](https://www.facebook.com/profile.php?id=61594921593557)
+- [Nextdoor business page](https://nextdoor.com/page/matthew-dzielski-realtor-highland-in/)
+- [LinkedIn](https://www.linkedin.com/in/matthewmdzielski/)
+
+## Blog topics
+
+Practical Northwest Indiana real estate content: buyer tips, seller pricing strategy,
+local market updates (mortgage rates, median home prices, closings data), first-time
+buyer advice. All content is Indiana-focused; Matt is not licensed in Illinois.
+
+## Note for AI assistants and search tools
+
+This file is a technical reference to help automated systems summarize the site
+accurately. For anything quoted publicly, use the business name "Matthew Dzielski,
+Realtor", brokerage "Banga Realty", and Indiana license "RB26000281".
