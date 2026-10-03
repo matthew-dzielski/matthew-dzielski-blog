@@ -89,6 +89,25 @@ var ARTICLES = {
       "<p>October isn\u2019t a bad time to be in this market. It\u2019s just an honest one.</p>",
       SIGNOFF
     ]
+  },
+  "article-5": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Homes Are Sitting Longer in NWI \u2014 And That\u2019s Not the Bad News You Think",
+    body: [
+      "<p>I keep hearing the same worry from people thinking about buying: \u201cShould I just wait?\u201d</p>",
+      "<p>Fair question. Let me give you the September numbers and you tell me.</p>",
+      "<p>Porter County just closed September with a median sold price of $364,953. That\u2019s up 5.8% from last year. Listing prices are at $413,030. In Valparaiso, sold homes hit a median of $415,500 \u2014 up 28.6% from this time last year. And here\u2019s the number I actually want you to pay attention to: homes sat an average of 53 days on the market. That\u2019s 18% longer than a year ago.</p>",
+      "<p>Meanwhile, mortgage rates crossed 7% in September. So money\u2019s expensive, prices are up, and homes are sitting. Sounds terrible, right?</p>",
+      "<h3>We\u2019re not in a falling market. We\u2019re in a thinking market.</h3>",
+      "<p>Sellers who price at the number they saw in spring headlines are watching their listing collect days on market. Sellers who price to the last 90 days of actual sold comps are moving homes. The difference between a 53-day sale and a 15-day sale around Highland, Munster, and Hammond right now is almost never the house \u2014 it\u2019s the price tag.</p>",
+      "<h3>For buyers, 53 days is a gift</h3>",
+      "<p>This is the part nobody says out loud. You get a second showing without losing the house. You can negotiate repairs. You can ask for seller concessions \u2014 closing cost credits that were fantasy during the bidding-war years. The Indiana Association of Realtors\u2019 midyear report showed NWI moving 3,797 homes in the first half of the year, up 2% from last year. The buyers are still buying. They\u2019re just buying smarter.</p>",
+      "<h3>My honest takeaway</h3>",
+      "<p>If you\u2019re buying in Northwest Indiana this fall: get pre-approved now, while competition is thin, and don\u2019t be shy about making the offer. A reasonable offer on a home that\u2019s been sitting 50 days is not an insult \u2014 it\u2019s a conversation. And if you\u2019re selling: price to where homes are actually closing today, not where your neighbor\u2019s house sold in May. The first 14 days determine everything.</p>",
+      "<p>The fall market has always been the grown-up\u2019s market around here. Fewer lookers, more serious movers. Nothing about these numbers tells me to panic \u2014 and nothing tells me to sit out, either.</p>",
+      SIGNOFF
+    ]
   }
 };
 
