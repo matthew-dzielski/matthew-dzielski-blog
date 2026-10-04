@@ -108,6 +108,26 @@ var ARTICLES = {
       "<p>The fall market has always been the grown-up\u2019s market around here. Fewer lookers, more serious movers. Nothing about these numbers tells me to panic \u2014 and nothing tells me to sit out, either.</p>",
       SIGNOFF
     ]
+  },
+  "article-6": {
+    tag: "Buying",
+    color: "#E07A2E",
+    title: "Indiana Will Help Pay Your Down Payment. Most First-Time Buyers Have No Idea.",
+    body: [
+      "<p>Ask a renter in Northwest Indiana what\u2019s stopping them from buying, and you won\u2019t hear about interest rates first. You\u2019ll hear about the down payment.</p>",
+      "<p>The math is honest. Around here the median home runs about $277,000. A 3.5% FHA down payment on that is roughly $9,700 \u2014 and that\u2019s before closing costs. Saving that while paying rent is brutal. I get why people assume ownership is years away.</p>",
+      "<p>But Indiana has programs built exactly for this, and most first-time buyers I talk to have never heard of them. So here\u2019s the plain-English version.</p>",
+      "<h3>Up to 6% of the purchase price \u2014 with no monthly payment</h3>",
+      "<p>The Indiana Housing and Community Development Authority \u2014 IHCDA, the state\u2019s housing agency \u2014 offers down payment assistance in all 92 counties, including ours. The main program, First Step, covers up to 6% of the purchase price. It\u2019s structured as a second mortgage with zero interest and no monthly payments, and it\u2019s forgiven over time if you stay in the home. On that $277,000 house, 6% is over $16,000 \u2014 more than the entire FHA down payment.</p>",
+      "<h3>Buying again? There\u2019s a program for that too</h3>",
+      "<p>Next Home offers 2.5% to 3.5% in assistance and is open to people who\u2019ve owned before, with forgiveness after just a few years. There\u2019s also a Mortgage Credit Certificate that shaves up to $2,000 a year off your federal taxes for the life of the loan. And if you\u2019re a first-generation homebuyer, the HomeBoost program offers up to $25,000 as an outright grant \u2014 not a loan, nothing to pay back.</p>",
+      "<h3>The fine print</h3>",
+      "<p>You have to work with an IHCDA-approved lender \u2014 not every lender qualifies. Income limits run roughly $88,000 to $141,000 depending on your household size and county. You\u2019ll need about a 640 credit score, and you\u2019ll take a homebuyer education course (a few hours, usually online). Programs like these change \u2014 funding rounds open and close, rules get tweaked. A good lender who does these regularly will know what\u2019s live right now. If you want a name, I know people. That\u2019s part of the job.</p>",
+      "<p>Here\u2019s the part that bothers me: the Indiana Association of Realtors found that only about one in five renter households statewide earns enough to comfortably buy at $250,000 or more. Some of those households are closer than they think \u2014 they\u2019re just missing the down payment piece, and the state literally has money set aside to fill it.</p>",
+      "<p>If you\u2019ve been renting in Highland, Munster, Hammond, Schererville, or anywhere around here and assumed the down payment puts buying five years out \u2014 it might not. Run your numbers against these programs before you decide.</p>",
+      "<p>Questions about any of this? Call or text me. This is the stuff I actually like talking about.</p>",
+      SIGNOFF
+    ]
   }
 };
 
