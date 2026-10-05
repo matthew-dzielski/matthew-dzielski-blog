@@ -128,6 +128,28 @@ var ARTICLES = {
       "<p>Questions about any of this? Call or text me. This is the stuff I actually like talking about.</p>",
       SIGNOFF
     ]
+  },
+  "article-7": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Someone Could Sell Your House Without You Knowing. Here\u2019s How to Stop It.",
+    body: [
+      "<p>Let me start with the part that got my attention.</p>",
+      "<p>A survey of 245 title professionals, released last month, found that 59% of title companies saw at least one seller impersonation fraud attempt last year. Two years earlier, that number was 28%. It\u2019s more than doubled. And the FBI issued a public warning about it in September.</p>",
+      "<h3>Here\u2019s how the scam works</h3>",
+      "<p>Criminals search public property records \u2014 which anyone can look at \u2014 and find homes owned free and clear. No mortgage means no lender involved in a sale, which means nobody to flag anything suspicious. Then they forge the documents, invent the identity, and try to sell YOUR house to a buyer who has no idea the seller is fake.</p>",
+      "<p>The favorite targets tell you exactly who\u2019s at risk: vacant land first, then properties owned free and clear (the survey said 68% of title firms named those), rental properties, and even primary residences. Sometimes the real owner doesn\u2019t find out for months. Or years. And once it happens, getting your ownership back can take serious time and serious money \u2014 half of the firms that paid a claim on this reported costs over $100,000.</p>",
+      "<h3>Why I\u2019m writing about this on a realtor\u2019s blog</h3>",
+      "<p>Around here in Northwest Indiana, a lot of people fit the target profile. Retirees in Highland and Munster who paid their house off years ago. Investors holding rental properties in Hammond and Gary. Anyone sitting on vacant land in Hebron or Cedar Lake. The scam doesn\u2019t care what your house is worth. It cares that there\u2019s no lender standing between a forger and your deed.</p>",
+      "<h3>Four things you can actually do</h3>",
+      "<p>First, if you own vacant land or a property you don\u2019t visit often, drive by it now and then. Some of these scams get caught because a neighbor notices a stranger selling a house they know is occupied or owned by someone else.</p>",
+      "<p>Second, check whether your county offers a property fraud alert \u2014 a free notification if anything gets recorded against your property. Lake and Porter counties both have recording offices where you can check what free alert options exist.</p>",
+      "<p>Third, look yourself up on the public records once in a while. Verify your name is the one on the deed and nothing\u2019s been recorded that you didn\u2019t sign.</p>",
+      "<p>Fourth, if you bought your home without owner\u2019s title insurance \u2014 or you\u2019re not sure \u2014 ask about it. New policy endorsements announced last year specifically cover forgery of a deed or mortgage even after your policy was issued. It used to be something most buyers treated as optional. I\u2019d look at it differently now.</p>",
+      "<p>I\u2019ll be honest with you: I\u2019m a Realtor, not a security expert. But I deal with property every day, and protecting your ownership is the same conversation as buying and selling it. If you\u2019re not sure what\u2019s recorded against your place, or you inherited a property and have no idea what\u2019s on the paperwork, that\u2019s worth 20 minutes of your time.</p>",
+      "<p>You worked too hard for your equity to lose it to a forged signature.</p>",
+      "      SIGNOFF"
+    ]
   }
 };
 
