@@ -148,7 +148,26 @@ var ARTICLES = {
       "<p>Fourth, if you bought your home without owner\u2019s title insurance \u2014 or you\u2019re not sure \u2014 ask about it. New policy endorsements announced last year specifically cover forgery of a deed or mortgage even after your policy was issued. It used to be something most buyers treated as optional. I\u2019d look at it differently now.</p>",
       "<p>I\u2019ll be honest with you: I\u2019m a Realtor, not a security expert. But I deal with property every day, and protecting your ownership is the same conversation as buying and selling it. If you\u2019re not sure what\u2019s recorded against your place, or you inherited a property and have no idea what\u2019s on the paperwork, that\u2019s worth 20 minutes of your time.</p>",
       "<p>You worked too hard for your equity to lose it to a forged signature.</p>",
-      "      SIGNOFF"
+      SIGNOFF
+    ]
+  },
+  "article-8": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "500 Jobs Are Coming to Crown Point \u2014 Here\u2019s What That Means for Northwest Indiana Housing",
+    body: [
+      "<p>Amazon signed a lease a couple of weeks ago for a 1.2 million square foot fulfillment center at Venture Park 65 in Crown Point. It\u2019s right off I-65 with easy access to US 30. The headline number is about 500 jobs.</p>",
+      "<p>I get asked all the time whether news like this actually affects home prices. My answer is yes \u2014 but not the way most people think.</p>",
+      "<p>It doesn\u2019t make every house in Crown Point worth $20,000 more overnight. What it does is tighten everything underneath the market. Five hundred workers need a place to live. Some will rent. Some will buy. A bunch will bring families, which means more demand for three-bedroom homes in Crown Point, Winfield, Schererville, Merrillville, and Cedar Lake \u2014 the whole ring around that I-65 corridor.</p>",
+      "<h3>Here\u2019s what that looks like on the ground</h3>",
+      "<p>Rental listings get a little scarcer. Landlords get a little pickier. Starter homes that sat for 45 days start going pending in two weeks. I\u2019ve watched it happen with every big employer move in this area, and it\u2019s boring and predictable: demand goes up, supply doesn\u2019t, and the buyers who were \u201cthinking about it\u201d end up paying more than the ones who moved early.</p>",
+      "<p>Amazon\u2019s also building a $100 million robotics manufacturing hub down in Greenwood, with 300 jobs expected to average close to $100,000 a year. Different side of the state, but it tells you something about how Amazon sees Indiana: over $40 billion invested here since 2008, more than 27,000 people employed. This isn\u2019t a one-off. Companies keep betting on this state, and Northwest Indiana keeps catching the spillover.</p>",
+      "<h3>So what do you actually do with this information?</h3>",
+      "<p>If you\u2019re a buyer: if you\u2019ve been circling Crown Point or anywhere within 15 minutes of Venture Park 65, this is the kind of news that raises the cost of waiting. Get pre-approved, know your number, and be ready to move on a house you like instead of \u201csleeping on it\u201d for a week. The sleeping-on-it window is about to get shorter.</p>",
+      "<p>If you\u2019re a seller near that corridor: your buyer pool just grew. That doesn\u2019t mean you can name your price \u2014 overpriced homes still sit, even in a hot spot. But a well-priced, move-in-ready home near new employer demand is about as safe a bet as this market gets.</p>",
+      "<p>If you\u2019re a landlord: vacancy risk near Crown Point just went down. You might not need to rush a rent increase, but you can afford to be more selective about tenants, because demand is coming.</p>",
+      "<p>My take: Northwest Indiana\u2019s biggest housing advantage has always been that you can still afford a good life here. Every round of job news like this protects that advantage a little less. If you\u2019re on the fence about getting into this market, the fence is getting more expensive to sit on.</p>",
+      SIGNOFF
     ]
   }
 };
