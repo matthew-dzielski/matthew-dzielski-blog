@@ -169,6 +169,25 @@ var ARTICLES = {
       "<p>My take: Northwest Indiana\u2019s biggest housing advantage has always been that you can still afford a good life here. Every round of job news like this protects that advantage a little less. If you\u2019re on the fence about getting into this market, the fence is getting more expensive to sit on.</p>",
       SIGNOFF
     ]
+  },
+  "article-9": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Indiana Is the #1 Housing Market in America. Here\u2019s What That Means in Northwest Indiana.",
+    body: [
+      "<p>Let me share some news I\u2019m genuinely proud of.</p>",
+      "<p>Earlier this year, Realtor.com released its 2026 state report cards on housing \u2014 grading every state on two things: keeping homes within reach of everyday earners, and building enough new homes to meet demand. Indiana went from No. 4 to No. 1 in the country. Top of the class.</p>",
+      "<p>And this week, Builder Magazine published its October outlook on our state, and the long-term picture keeps getting stronger. Indiana has attracted roughly $380 billion in manufacturing-related investment \u2014 among the top states nationally. The piece also made a point I\u2019ve been making for a while: compared to most major U.S. metros, Indiana is still genuinely attainable.</p>",
+      "<p>Now here\u2019s where it gets local. I don\u2019t need a national report to tell me builders believe in Northwest Indiana \u2014 I can watch it happen at the plan commission.</p>",
+      "<p>At the end of September, Crown Point approved PreservePoint phase one: about 214 new single-family homes on 127 acres, with park land, trails, and ponds built in. Same round of approvals included new townhomes on South Main Street, replats in Beacon Hill, and a Fairfield Inn going up at Delaware Parkway. And Lennar \u2014 one of the biggest builders in the country \u2014 is working through annexation of 112 acres in Crown Point for another single-family subdivision, with construction potentially starting soon.</p>",
+      "<p>Builders don\u2019t do that on a hunch. They do it because the jobs, the population, and the math all point the same direction.</p>",
+      "<p>So what does the #1 ranking actually mean for you, sitting in Highland or Munster or Hammond?</p>",
+      "<p>If you\u2019re buying: this is one of the few markets in America where a regular income still buys a real house. New construction coming online in Crown Point also means something we haven\u2019t had much of lately \u2014 options. When there are more homes to choose from, buyers get negotiating room back. That\u2019s a good time to be shopping.</p>",
+      "<p>If you\u2019re selling: the #1 ranking is a tailwind \u2014 demand for Indiana is real and growing. But here\u2019s the honest part: new construction near your neighborhood is competition. A well-priced, move-in-ready resale can absolutely beat a new build on value. An overpriced one can\u2019t. The sellers who win in a building boom are the ones who price to where homes are actually closing, not where they wish they were.</p>",
+      "<p>One more thing worth saying. The national conversation about housing is mostly doom and gloom \u2014 prices too high, supply too short, young buyers locked out. Indiana is the counterexample. We kept building. We stayed affordable. And Northwest Indiana \u2014 with the lake, the mills, the I-65 corridor, and towns people actually want to live in \u2014 is the best version of that story.</p>",
+      "<p>That\u2019s not hype. That\u2019s the data. And I plan to keep saying it.</p>",
+      SIGNOFF
+    ]
   }
 };
 
