@@ -188,6 +188,24 @@ var ARTICLES = {
       "<p>That\u2019s not hype. That\u2019s the data. And I plan to keep saying it.</p>",
       SIGNOFF
     ]
+  },
+  "article-10": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "First-Time Buyers Aren\u2019t Gone. They Just Got Smarter.",
+    body: [
+      "<p>The headlines want you to believe first-time buyers are finished. Down to 21% of the market \u2014 the lowest ever recorded, says the National Association of Realtors.</p>",
+      "<p>Here\u2019s what the headlines skip: the 21% who are buying figured out a better playbook.</p>",
+      "<p>They stopped fighting bidding wars in the obvious towns. They started looking one exit over. They talked to a lender before they fell in love with a house. They shopped the monthly payment instead of panicking over the sticker price. None of it is glamorous. All of it works.</p>",
+      "<p>And here\u2019s the part that matters if you live here: Northwest Indiana is one of the last places where that playbook still wins big.</p>",
+      "<p>Our median is $277,000. The state association had us as Indiana\u2019s second-busiest market \u2014 3,797 closings, up 2% last year. In one recent week, 210 NWI homes went under contract. Median 24 days on market. Things move here.</p>",
+      "<p>The money towns for first-timers: Hobart, Portage, Griffith, Hammond, Highland. That\u2019s where $250K\u2013$300K buys a real house in a real neighborhood \u2014 not a teardown, not a money pit. A house.</p>",
+      "<p>I\u2019ll be straight about the squeeze. Most buyers this year were existing homeowners rolling equity. Only one in five Indiana renter households earns enough to buy at $250K with 10% down. And rates just hit 7.49% \u2014 the highest in nearly three years.</p>",
+      "<p>But here\u2019s the thing nobody says: people buy in every rate environment. Marriages, babies, job changes, rent hikes \u2014 life doesn\u2019t wait for 5%.</p>",
+      "<p>So if you\u2019re renting in NWI and thinking about 2027, here\u2019s the unglamorous move that actually works: call a lender this week. Not when you find the house \u2014 now. Get your real monthly number. Then go look at the towns one exit over from where you started.</p>",
+      "<p>The buyers winning right now aren\u2019t waiting for perfect. They\u2019re showing up with a plan.</p>",
+      SIGNOFF
+    ]
   }
 };
 
