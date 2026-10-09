@@ -206,6 +206,24 @@ var ARTICLES = {
       "<p>The buyers winning right now aren\u2019t waiting for perfect. They\u2019re showing up with a plan.</p>",
       SIGNOFF
     ]
+  },
+  "article-11": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "87 New Homes Might Be Coming to Merrillville \u2014 Priced for Real People",
+    body: [
+      "<p>At a recent Merrillville Plan Commission workshop, a developer named Wayne Welter proposed building 87 new single-family homes on 30 acres in Savannah Ridge \u2014 the established subdivision between 73rd Avenue and US 30, where five dead-end streets currently sit. The idea is to tie them all into Grant Street.</p>",
+      "<p>Ranches and Cape Cods. Priced in the low-to-mid $200,000s.</p>",
+      "<p>Read that price twice. In a market where the Northwest Indiana median is $277K and buyers are stretched thin, somebody is proposing brand-new construction \u2014 never lived in \u2014 under the median price. That\u2019s not nothing.</p>",
+      "<p>I talk to buyers every week who are stuck between two bad options: overpay for a resale that needs $30K of work, or keep renting and watch prices climb. This is the third option people keep asking me about. And it matters most for first-time buyers, who \u2014 as I wrote yesterday \u2014 now make up just 21% of buyers nationally. Only one in five Indiana renter households can even afford a $250K home right now.</p>",
+      "<p>Is it a done deal? No. Not even close.</p>",
+      "<p>The Plan Commission liked the concept, but they flagged two things: parks and drainage. The parks director said Savannah Ridge Park can\u2019t handle 87 more families \u2014 it\u2019s a small neighborhood park that, in her words, doesn\u2019t even have a swing set. And one of the commissioners, who lives in Savannah Ridge himself, said the drainage system already can\u2019t handle what it\u2019s got.</p>",
+      "<p>That\u2019s actually a healthy sign. When the town pushes a developer on parks and drainage, the process is working. Sloppy approvals are how neighborhoods get burned.</p>",
+      "<p>Same meeting, a second proposal: 275 studio and one-bedroom apartments for young professionals in the Broadfield subdivision off 93rd Avenue \u2014 scaled down from 458 units that were approved but never built. More rental options along the US 30 corridor is a quiet win for people who work in the area and aren\u2019t ready to buy.</p>",
+      "<p>My take: watch this one. If Welter\u2019s homes get built anywhere near the low $200s, they will not sit. New construction at that price in Lake County has a waiting list written all over it.</p>",
+      "<p>The actionable part: if you want in on something like this, get pre-approved now. When projects like this break ground, the early buyers always get the best lots and the best prices. The people who wait are the ones choosing from what\u2019s left.</p>",
+      SIGNOFF
+    ]
   }
 };
 
