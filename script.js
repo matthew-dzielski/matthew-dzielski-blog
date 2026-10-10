@@ -224,6 +224,24 @@ var ARTICLES = {
       "<p>The actionable part: if you want in on something like this, get pre-approved now. When projects like this break ground, the early buyers always get the best lots and the best prices. The people who wait are the ones choosing from what\u2019s left.</p>",
       SIGNOFF
     ]
+  },
+  "article-12": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Your Assessment Went Up. Your Tax Bill Might Not Have To.",
+    body: [
+      "<p>Every spring and fall, I get the same call from a homeowner in Highland or Munster or Griffith: \u201cMatt, the county says my house is worth fifteen percent more than last year. Am I about to get crushed on taxes?\u201d</p>",
+      "<p>Fair question. Let me walk through how this actually works in Lake County, because the system is confusing on purpose and most people never get the full picture.</p>",
+      "<p>First, the guardrail. Indiana\u2019s constitution caps your property tax bill: 1% of assessed value for your primary residence, 2% for other residential property like rentals, 3% for commercial. So on a $250,000 assessed home you live in, your bill can\u2019t exceed $2,500 before deductions \u2014 and deductions like the homestead standard ($48,000 off assessed value) and the supplemental homestead deduction push it lower.</p>",
+      "<p>Second, the part nobody explains. Your tax bill isn\u2019t just your assessment times a rate. It\u2019s your share of what your local taxing units \u2014 schools, the city or town, the county, the library, the township \u2014 decided to spend. When every home\u2019s assessed value rises 15% together, those units can lower the tax rate and still collect the same or more. That\u2019s why your bill can climb even in a year the rate \u201cwent down.\u201d The rate is not the story. The budgets are.</p>",
+      "<p>Third \u2014 and this is the actionable part \u2014 you can fight the assessment itself. If the county says your house is worth $280,000 but three comparable homes on your street sold for $240,000 to $250,000 this year, that\u2019s an appeal. You file Form 130 with the Lake County Assessor\u2019s office, and you generally have 45 days from the date on your assessment notice. Bring the comps. Be specific. The people who show up with real comparable sales do far better than the people who just show up angry.</p>",
+      "<p>A few things I\u2019d tell you if we were sitting at my kitchen table:</p>",
+      "<p>Don\u2019t confuse assessed value with market value. The county\u2019s number is a mass-appraisal estimate, not what a buyer would pay. It\u2019s often high after a hot market year because the data lags.</p>",
+      "<p>Check your deductions. The homestead deduction isn\u2019t automatic in every situation \u2014 if you bought recently and never filed, you might be leaving money on the table. One form, filed once, saves you every year.</p>",
+      "<p>And if you\u2019re buying: always look at the tax history, not just the current bill. A house with a low bill because the seller is 80 and gets every exemption might reassess hard once you buy it. I pull tax records on every home I show my buyers, because a $200-a-month surprise in escrow kills more deals than a bad inspection.</p>",
+      "<p>Here\u2019s my takeaway: the assessment notice is not a bill, and it\u2019s not final. Read it, compare it to actual sales near you, and if the number\u2019s wrong, appeal it. Forty-five days goes fast.</p>",
+      SIGNOFF
+    ]
   }
 };
 
