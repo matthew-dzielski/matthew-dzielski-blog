@@ -242,6 +242,24 @@ var ARTICLES = {
       "<p>Here\u2019s my takeaway: the assessment notice is not a bill, and it\u2019s not final. Read it, compare it to actual sales near you, and if the number\u2019s wrong, appeal it. Forty-five days goes fast.</p>",
       SIGNOFF
     ]
+  },
+  "article-13": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "The October Checklist That Saves NWI Homeowners Thousands",
+    body: [
+      "<p>Every October, I have the same conversation with homeowners in Highland, Munster, and Griffith. It goes like this: \u201cMatt, should I really bother with all that fall maintenance stuff?\u201d And every January, somebody calls me about a burst pipe or a dead furnace and I think \u2014 yeah. Yeah, you should\u2019ve bothered.</p>",
+      "<p>Here\u2019s the truth about Northwest Indiana winters: the most expensive repairs are almost always the preventable ones. A $100 furnace tune-up in October beats a $400 emergency service call at midnight in January. Draining a hose bib takes ten minutes; a burst pipe in a crawl space costs thousands plus your insurance deductible.</p>",
+      "<p>So here\u2019s my actual checklist. Not the Pinterest version \u2014 the version that matters here.</p>",
+      "<p><strong>Clean your gutters.</strong> Our freeze-thaw cycles are brutal. Clogged gutters fill with ice, the ice backs up under your shingles, and water finds its way inside. Ice dams are one of the most common winter damage claims in Lake County. Ladder, gloves, an hour \u2014 done.</p>",
+      "<p><strong>Service the furnace.</strong> If your furnace is more than a few years old and hasn\u2019t been looked at since last winter, get a tech out now. They\u2019ll catch the cracked heat exchanger or dying ignitor before it fails on the coldest night of the year. The good HVAC companies in NWI book up fast in October \u2014 call this week.</p>",
+      "<p><strong>Shut off and drain exterior hose bibs.</strong> This is the big one. Every winter I hear about burst pipes, and nine times out of ten it\u2019s an outside faucet that never got shut off. Turn off the interior valve, open the outside spigot, let it drain. Ten minutes. Do it this weekend.</p>",
+      "<p><strong>Check your weatherstripping.</strong> Close your front door and look for daylight around the edges. If you see it, your heat is going straight outside and your furnace is working overtime. A $15 roll of weatherstripping from the hardware store fixes it.</p>",
+      "<p><strong>Test the sump pump.</strong> Pour a bucket of water into the pit. If the pump doesn\u2019t kick on, you want to know now \u2014 not during the March thaw when your basement\u2019s filling up. If you don\u2019t have a battery backup and your power goes out in a storm, that\u2019s the upgrade worth making.</p>",
+      "<p><strong>Replace smoke and CO detector batteries.</strong> Heating season is carbon monoxide season. If your detectors are more than ten years old, replace the whole unit, not just the battery.</p>",
+      "<p>None of this is exciting. That\u2019s the point \u2014 boring October maintenance is what keeps January from being a disaster. Take a Saturday, work through the list, and go into winter knowing your house is ready.</p>",
+      SIGNOFF
+    ]
   }
 };
 
