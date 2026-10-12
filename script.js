@@ -260,6 +260,29 @@ var ARTICLES = {
       "<p>None of this is exciting. That\u2019s the point \u2014 boring October maintenance is what keeps January from being a disaster. Take a Saturday, work through the list, and go into winter knowing your house is ready.</p>",
       SIGNOFF
     ]
+  },
+  "article-14": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "5 Questions to Ask at Every Open House",
+    body: [
+      "<p>Most people tour an open house like tourists. They drift room to room, admire the staging, and leave knowing nothing. The buyers who win? They interrogate the house.</p>",
+      "<p>Here are the five questions I want every buyer asking \u2014 because the answers tell you more than the listing ever will.</p>",
+      "<p><strong>1. \u201cWhy are they selling?\u201d</strong></p>",
+      "<p>Job relocation and divorce are neutral \u2014 life happens. But \u201cwe\u2019ve just decided it\u2019s time\u201d after four months on the market is not neutral. A motivated seller with a timeline is a negotiating opportunity. A seller testing the market at an aspirational price is a waiting game. You want to know which one you\u2019re dealing with before you write the offer.</p>",
+      "<p><strong>2. \u201cHow old are the roof, furnace, and water heater?\u201d</strong></p>",
+      "<p>These are the big-ticket three, and in Northwest Indiana\u2019s housing stock \u2014 a lot of 1950s\u20131970s ranches and bungalows \u2014 they matter enormously. A 22-year-old roof isn\u2019t a dealbreaker. It\u2019s a negotiating chip. A 25-year-old furnace limping into October is a $5,000 surprise waiting for January. Get the ages, then price the replacements into your offer.</p>",
+      "<p><strong>3. \u201cHas there ever been water in the basement?\u201d</strong></p>",
+      "<p>Ask it exactly like that, and watch the reaction \u2014 not just the answer. Then verify against the seller\u2019s disclosure, which Indiana requires in writing. Our high water table and spring thaws make basements the #1 surprise in NWI transactions. Fresh paint on one basement wall? That\u2019s a follow-up question, not a coincidence.</p>",
+      "<p><strong>4. \u201cWhat are the property taxes \u2014 and have they been reassessed lately?\u201d</strong></p>",
+      "<p>Lake County reassessments can swing your monthly payment by hundreds of dollars. A house that looks affordable at the listing price can become unaffordable once the tax bill catches up to the sale price. Always run the numbers on the <em>future</em> tax bill, not just the current one.</p>",
+      "<p><strong>5. \u201cWhat\u2019s the neighborhood like at night?\u201d</strong></p>",
+      "<p>The street at 2 PM on a Sunday tells you nothing. Drive by on a Friday evening. Are people out? Is it quiet? Ten minutes of evening reconnaissance beats a hundred listing photos.</p>",
+      "<p><strong>My bonus habit:</strong> open every window and every closet. Windows painted shut, closets that smell like mildew \u2014 the house tells on itself if you let it.</p>",
+      "<p>None of these questions is rude. They\u2019re due diligence. The listing agent expects them from serious buyers, and the answers separate the houses worth pursuing from the ones worth walking away from.</p>",
+      "<p>Touring this fall? Bring the list. And if you want someone asking the hard questions with you, that\u2019s literally what I\u2019m here for.</p>",
+      SIGNOFF
+    ]
   }
 };
 
