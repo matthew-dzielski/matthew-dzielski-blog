@@ -264,7 +264,7 @@ var ARTICLES = {
   "article-14": {
     tag: "Home buying tips",
     color: "#2E6FA8",
-    title: "5 Questions to Ask at Every Open House",
+    title: "5 Questions to Ask at Every Open House in Northwest Indiana",
     body: [
       "<p>Most people tour an open house like tourists. They drift room to room, admire the staging, and leave knowing nothing. The buyers who win? They interrogate the house.</p>",
       "<p>Here are the five questions I want every buyer asking \u2014 because the answers tell you more than the listing ever will.</p>",
