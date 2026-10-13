@@ -283,6 +283,24 @@ var ARTICLES = {
       "<p>Touring this fall? Bring the list. And if you want someone asking the hard questions with you, that\u2019s literally what I\u2019m here for.</p>",
       SIGNOFF
     ]
+  },
+  "article-15": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "The 3 AM Spiral Every Homebuyer Has (and What I Tell Them at 8 AM)",
+    body: [
+      "<p>Every buyer I\u2019ve ever worked with has had the 3 AM spiral.</p>",
+      "<p>It goes like this. You tour the house on Saturday. You love the kitchen, the yard\u2019s big enough, the price works. You write the offer Sunday and feel great at dinner. Then 3 AM Monday you\u2019re staring at the ceiling doing math you already did twice.</p>",
+      "<p>Did we offer too much? What if the inspector missed something? What are the neighbors like \u2014 really like? What if the furnace quits in January and we\u2019re eating the cost in February?</p>",
+      "<p>I\u2019ve watched this happen with first-time buyers in Hammond and with move-up buyers in Munster who\u2019ve done this three times before. Experience doesn\u2019t exempt you. Buying a house is the biggest check most of us ever write, and your brain is going to audit it at the worst possible hour.</p>",
+      "<p>So here\u2019s what I tell every buyer at 8 AM, and I\u2019m telling you now:</p>",
+      "<p><strong>Trust the awake version of you.</strong> You ran the monthly payment numbers in daylight, with coffee, thinking clearly. The 3 AM version of you has no new information \u2014 just less sleep. The math didn\u2019t change overnight.</p>",
+      "<p><strong>That\u2019s what the inspection is for.</strong> That specific fear \u2014 what if something\u2019s wrong with the house \u2014 has a specific answer: a licensed inspector is going to walk the roof, the basement, the electrical panel, and the furnace and hand you a report. You\u2019re not buying on faith. You\u2019re buying with a professional\u2019s eyes on it.</p>",
+      "<p><strong>Go see the street at night.</strong> Listing photos are taken at golden hour on the prettiest day of the year. Drive by on a Tuesday evening. Are people out walking dogs? Is it quiet? Is the street lit? Ten minutes of real life tells you more than forty photos.</p>",
+      "<p>And here\u2019s the part nobody says: nobody feels 100% sure. Not the first-timers, not the investors, not me when I bought my place. The buyers who do well aren\u2019t the confident ones. They\u2019re the prepared ones \u2014 pre-approved, inspected, eyes open.</p>",
+      "<p>If you\u2019re in the spiral right now, here\u2019s my number: (219) 356-6565. Talking it through for fifteen minutes beats staring at the ceiling until sunrise. That\u2019s not a sales pitch. It\u2019s just the fastest way I\u2019ve found to get you back to sleep.</p>",
+      SIGNOFF
+    ]
   }
 };
 
