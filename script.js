@@ -301,6 +301,31 @@ var ARTICLES = {
       "<p>If you\u2019re in the spiral right now, here\u2019s my number: (219) 356-6565. Talking it through for fifteen minutes beats staring at the ceiling until sunrise. That\u2019s not a sales pitch. It\u2019s just the fastest way I\u2019ve found to get you back to sleep.</p>",
       SIGNOFF
     ]
+  },
+  "article-16": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "That House That's Been Sitting Since July Just Cut Its Price \u2014 Here's What That Actually Means",
+    body: [
+      "<p>You\u2019ve seen that house.</p>",
+      "<p>It\u2019s been sitting since July. You drove past it in August, then again in September, and now \u2014 finally \u2014 the price dropped. Maybe $10,000. Maybe $20,000.</p>",
+      "<p>And your first thought was probably one of two things: \u201cSomething must be wrong with it,\u201d or \u201cTime to lowball them.\u201d</p>",
+      "<p>I\u2019ve watched buyers make both mistakes. Both leave money on the table.</p>",
+      "<p>Here\u2019s what a price cut usually means: the seller priced the house for June, and the market answered. That\u2019s it. Not a haunted basement. Not a cracked foundation. A seller who aimed too high and just got the message.</p>",
+      "<p>And that\u2019s exactly where the good deals live.</p>",
+      "<p>If you\u2019re a buyer looking at a house like that, here\u2019s how I want you to read it.</p>",
+      "<p><strong>First, look at the days on market and the size of the cut.</strong> A small cut after 30 days is a nudge \u2014 the seller is testing the water. A big cut after 90 days is a seller who\u2019s ready to talk. Those are very different conversations.</p>",
+      "<p><strong>Second, don\u2019t punish the seller for the old price.</strong> The July number is gone. Your offer should be based on what the house is worth today \u2014 what similar homes in Highland, Munster, or Griffith actually sold for lately, not what someone hoped for three months ago.</p>",
+      "<p><strong>Third, check the stuff that actually matters</strong> before you assume the cut is hiding something. Roof, furnace, basement. Get the inspection. A price cut is a pricing story until the inspection says otherwise \u2014 don\u2019t invent a horror story before you\u2019ve seen the report.</p>",
+      "<p>Now the other side of it, because sellers need to hear this too.</p>",
+      "<p>The market is not dead. In the last week alone, 210 homes went under contract across Northwest Indiana, with a median of just 24 days on market. Lake County\u2019s median sale price is still up from a year ago. Homes priced for today\u2019s market are moving.</p>",
+      "<p>The ones sitting? They\u2019re the ones priced for last spring.</p>",
+      "<p>I get it. You saw what your neighbor\u2019s house sold for in March. You remember the bidding wars. But the buyer pool changed \u2014 rates are over 7% now, the highest in a year and a half, and buyers are doing real math again. Pricing $20,000 high and cutting later doesn\u2019t get you the $20,000. It gets you 90 days of showings, a stale listing, and then the cut anyway \u2014 except now every buyer in town knows you\u2019ve been sitting.</p>",
+      "<p>Price it right the first week, and you get the buyers who are actually ready. Price it for nostalgia, and you get the price cut.</p>",
+      "<p>So if there\u2019s a house on your street that\u2019s been sitting since summer and just cut its price \u2014 don\u2019t write it off, and don\u2019t get greedy. Read it for what it is: a seller who\u2019s ready to deal, and a house that might be the best value on the block right now.</p>",
+      "<p>That\u2019s the kind of house my buyers end up happiest in. Not the one they won a bidding war for. The one they bought smart.</p>",
+      SIGNOFF
+    ]
   }
 };
 
