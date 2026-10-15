@@ -326,6 +326,24 @@ var ARTICLES = {
       "<p>That\u2019s the kind of house my buyers end up happiest in. Not the one they won a bidding war for. The one they bought smart.</p>",
       SIGNOFF
     ]
+  },
+  "article-17": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Indiana Just Rewrote Your Property Tax Bill \u2014 Here\u2019s What It Actually Means for Your Wallet",
+    body: [
+      "<p>Those assessment notices landing in mailboxes? That was just the opening act.</p>",
+      "<p>While everyone was staring at their assessed value, Indiana passed SEA 1 \u2014 a full rewrite of the property tax system. And what it does to your wallet is more complicated than \u201ctaxes went down.\u201d</p>",
+      "<p>Here\u2019s the plain-English version.</p>",
+      "<p>The state capped and cut property taxes, which means local governments collect less. How much less? Lake County is projected to lose about $33 million in property tax revenue next year, and $37 million the year after. That\u2019s not an abstract budget line \u2014 that\u2019s police, fire, roads, and schools.</p>",
+      "<p>Cedar Lake just showed everyone what that looks like up close. At their October 6 budget hearing, town officials said they\u2019re dipping into cash reserves to cover the shortfall from SEA 1. The town\u2019s tax levy is dropping, the growth funding they used for public safety is gone, and they\u2019re openly talking about a local income tax to fill the gap.</p>",
+      "<p>Gary\u2019s controller put a number on it too: roughly $16 million in lost property tax relief starting in 2029.</p>",
+      "<p>So here\u2019s the tradeoff nobody\u2019s explaining clearly. Yes, your property tax bill might go down. But the same law lets counties raise the local income tax cap from 2.5% to 2.9% starting in 2027 to make up what they lost. Your property tax drops and your paycheck shrinks. Same wallet, different pocket.</p>",
+      "<p>I\u2019m not writing this to tell you whether the law is good or bad. I\u2019m writing it because \u201cmy property taxes went down\u201d is not the whole story, and anyone making money decisions on half the story gets burned.</p>",
+      "<p>If you\u2019re buying right now, run your affordability on both taxes \u2014 not just the property tax line on the listing sheet. If you already own, watch what your town does next. The towns that handle this well will protect services without reaching deeper into your paycheck. The ones that don\u2019t will do both: cut services AND raise the income tax.</p>",
+      "<p>One thing I\u2019ll be watching: which Lake County towns move first on the income tax. That decision will tell you everything about how your total tax bill looks in 2027.</p>",
+      SIGNOFF
+    ]
   }
 };
 
