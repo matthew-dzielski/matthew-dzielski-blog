@@ -344,6 +344,24 @@ var ARTICLES = {
       "<p>One thing I\u2019ll be watching: which Lake County towns move first on the income tax. That decision will tell you everything about how your total tax bill looks in 2027.</p>",
       SIGNOFF
     ]
+  },
+  "article-18": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Your Town Just Bet Millions on Itself \u2014 Here\u2019s What That Means for Your House",
+    body: [
+      "<p>Hobart just made a bet. A $6.6 million one.</p>",
+      "<p>The park board approved a not-to-exceed $6.6 million bond issue to redo Festival Park \u2014 the 14-acre park on Lake George with the bandshell and the community center. They handed the project to an Indianapolis development firm, and the improvements should be in place by next fall.</p>",
+      "<p>Then there\u2019s the Brickie Bowl. Eighty-six years old. Hobart\u2019s upgrading the turf, redoing the electricity, maybe adding pickleball courts. The mayor wants it done by next fall too.</p>",
+      "<p>And Gary\u2019s airport just secured a $10 million federal grant for a new control tower to replace the one that\u2019s been running since 1972. About 115 skilled trade workers will build it. Done by late 2027.</p>",
+      "<p>Here\u2019s why I\u2019m writing about this on a real estate blog: money like this doesn\u2019t just show up. Towns spend it where they see a future.</p>",
+      "<p>Think about it. Two identical houses in Hobart, same price. One sits two blocks from a park the town just poured $6.6 million into. The other is nowhere near anything improving. Which one are you picking? Which one is your buyer picking five years from now when you sell?</p>",
+      "<p>I\u2019ve watched this pattern for years. Towns that invest in themselves pull buyers in. Parks get busier. Businesses follow. The neighborhood feels like it\u2019s going somewhere. And \u201cgoing somewhere\u201d is exactly what supports home values.</p>",
+      "<p>The reverse is true too. A town that\u2019s not spending anything, not fixing anything, not planning anything \u2014 that\u2019s a town telling you something.</p>",
+      "<p>So here\u2019s my takeaway, and it\u2019s simple: when you\u2019re shopping for a house, drive the town, not just the block. Look for the construction fences. The new playground equipment. The projects with a timeline. That\u2019s where the town\u2019s money is going, and money is the most honest signal there is.</p>",
+      "<p>I\u2019m keeping an eye on Hobart. If they finish by next fall like the mayor wants, that\u2019s a neighborhood worth watching.</p>",
+      SIGNOFF
+    ]
   }
 };
 
