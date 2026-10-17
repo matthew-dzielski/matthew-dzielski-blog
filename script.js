@@ -362,6 +362,25 @@ var ARTICLES = {
       "<p>I\u2019m keeping an eye on Hobart. If they finish by next fall like the mayor wants, that\u2019s a neighborhood worth watching.</p>",
       SIGNOFF
     ]
+  },
+  "article-19": {
+    tag: "Investors",
+    color: "#8E44AD",
+    title: "Your Next Renter Might Not Be Real",
+    body: [
+      "<p>AI is now faking rental applications.</p>",
+      "<p>Landlords are seeing pay stubs that look perfect, employer letters on real-looking letterhead, even IDs \u2014 all generated. The Indianapolis Business Journal just flagged it: applicants using AI to create false identities and fabricated documents to secure housing.</p>",
+      "<p>Here\u2019s the thing. I talk to small landlords all the time around Hammond, Highland, East Chicago \u2014 folks renting out a house or a duplex \u2014 and most of them are still screening like it\u2019s 2015. One phone call to the number on the application. A glance at the pay stub. Good enough.</p>",
+      "<p>It\u2019s not good enough anymore.</p>",
+      "<p>Here\u2019s what I\u2019d actually do before handing over keys:</p>",
+      "<p>Call the employer yourself. Not the number printed on the pay stub \u2014 look the business up independently and call that number. If the \u201cmanager\u201d answers on the first ring at 9 PM and can\u2019t tell you the company\u2019s address, you have your answer.</p>",
+      "<p>Run your own screening. Background and credit through your own service, every single time. Never accept a report the applicant hands you \u2014 that\u2019s the easiest thing in the world to fake now.</p>",
+      "<p>Meet them. AI can fake paper all day long. It\u2019s much worse at faking a person across a kitchen table. Trust the in-person read.</p>",
+      "<p>Verify money with the bank, not a screenshot. A two-minute call to the bank\u2019s listed number beats a perfect PDF every time.</p>",
+      "<p>I know this sounds paranoid. But run the math: one bad tenant, one eviction \u2014 in Indiana that process drags on for months and can wipe out a full year of rent. A vacant month stings. A bad tenant ruins your year.</p>",
+      "<p>The tools changed. The screening has to change with them.</p>",
+      SIGNOFF
+    ]
   }
 };
 
