@@ -381,6 +381,19 @@ var ARTICLES = {
       "<p>The tools changed. The screening has to change with them.</p>",
       SIGNOFF
     ]
+  },
+  "article-20": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What I'd tell my neighbor about Dyer's $243 million transit project",
+    body: [
+      "<p>Dyer just landed one of the biggest development announcements the Region has seen in a while. The Northwest Indiana Regional Development Authority backed a $243 million project in Dyer\u2019s Transit Development District \u2014 a 70-acre development called Central Park Commons, sitting right next to the new Munster/Dyer South Shore station.</p>",
+      "<p>Here\u2019s what\u2019s actually going in: 363 two- and three-story townhomes, 199 senior housing units (independent living, assisted living, and memory care), a grocery store, a fitness center, a Hilton hotel, plus shops and restaurants. All told, more than 1.2 million square feet of residential and commercial space.</p>",
+      "<p>I\u2019ll say what I always say when one of these lands: the train redraws the map. Hammond already pulled a $30 million station-area project, and Michigan City landed a $103 million one. The West Lake Corridor is the engine behind all of it \u2014 eight miles of new South Shore track running from Hammond down to Dyer, with four new stations: Hammond Gateway, South Hammond, Munster Ridge Road, and Munster/Dyer Main Street.</p>",
+      "<p>This is the pattern I\u2019ve watched play out for years. When money like this lands next to a station, the surrounding towns don\u2019t sit still. Dyer, Munster, Schererville \u2014 demand shifts, builders follow, and home values in the corridor feel it over time. I\u2019m not telling you values double overnight. I\u2019d stake my reputation on this though: the next five years look very different for south Lake County than the last five did.</p>",
+      "<p>So here\u2019s my takeaway if you\u2019re thinking about buying or selling in south Lake County in the next year or two: drive the corridor. See where the stations are going and what\u2019s going up around them. Then talk to me before you fall in love with a house \u2014 timing around projects like this matters, and I\u2019d rather you buy with the full picture than find out later.</p>",
+      SIGNOFF
+    ]
   }
 };
 
