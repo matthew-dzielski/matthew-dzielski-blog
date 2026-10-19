@@ -394,6 +394,21 @@ var ARTICLES = {
       "<p>So here\u2019s my takeaway if you\u2019re thinking about buying or selling in south Lake County in the next year or two: drive the corridor. See where the stations are going and what\u2019s going up around them. Then talk to me before you fall in love with a house \u2014 timing around projects like this matters, and I\u2019d rather you buy with the full picture than find out later.</p>",
       SIGNOFF
     ]
+  },
+  "article-21": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Downtown Gary Is Finally Tearing It All Down \u2014 Here\u2019s What I\u2019m Watching",
+    body: [
+      "<p>Downtown Gary is having its demolition week.</p>",
+      "<p>Not one building. Four major ones, all at once. The Genesis Convention Center on Adams Street. The old Gordon\u2019s Department Store on Broadway. City Methodist Church on Washington Street. St. Mary\u2019s Mercy Hospital on Tyler Street. Crews with excavators, water spray for dust, road closures on Adams and Washington \u2014 the whole thing is real and happening now.</p>",
+      "<p>The city of Gary, the Northwest Indiana Regional Development Authority, and McDonagh Demolition are running it as one coordinated push. Mayor Eddie Melton put it plainly: \u201cwe are protecting downtown and public safety, and making room for new housing, local businesses, and modern civic spaces.\u201d</p>",
+      "<p>That\u2019s the part worth paying attention to \u2014 what\u2019s going on the cleared land. New housing. Retail. A civic plaza. A public safety facility. And an upgraded Gary Metro Center, the downtown transit hub.</p>",
+      "<p>Zoom out and the scale gets serious. This sits inside an $80 million blight-elimination campaign targeting roughly 7,000 abandoned structures across the city. The Wall Street Journal called it Gary betting millions on itself, and honestly that\u2019s exactly what it looks like.</p>",
+      "<p>I\u2019ve worked the Region long enough to know how this usually goes. A teardown nobody believes in is just a hole in the ground. But a coordinated teardown with funded plans behind it \u2014 that\u2019s how a downtown starts turning. And when a downtown turns, the neighborhoods around it don\u2019t wait for permission. Investors are already active in Hammond and East Chicago. The blocks near Broadway and the Metro Center move first.</p>",
+      "<p>My takeaway, and it\u2019s the same advice I\u2019d give a neighbor: don\u2019t sleep on this. If you\u2019ve been curious about NWI investment \u2014 or you\u2019re a buyer who\u2019s been priced toward the edges \u2014 watch what\u2019s happening downtown over the next year. The cheapest time to be near a turnaround is while the bulldozers are still running.</p>",
+      SIGNOFF
+    ]
   }
 };
 
