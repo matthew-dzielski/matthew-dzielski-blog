@@ -409,6 +409,23 @@ var ARTICLES = {
       "<p>My takeaway, and it\u2019s the same advice I\u2019d give a neighbor: don\u2019t sleep on this. If you\u2019ve been curious about NWI investment \u2014 or you\u2019re a buyer who\u2019s been priced toward the edges \u2014 watch what\u2019s happening downtown over the next year. The cheapest time to be near a turnaround is while the bulldozers are still running.</p>",
       SIGNOFF
     ]
+  },
+  "article-22": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Downtown Hammond Just Greenlit 150 New Homes — Here’s What It Means for Your House",
+    body: [
+      "<p>Something big is happening in downtown Hammond.</p>",
+      "<p>Mayor Tom McDermott announced the city approved a 150-unit downtown housing development. The official announcement is still coming — the council signed off about a week before he said anything publicly — but the project is real and moving.</p>",
+      "<p>That’s not all. There’s an active request for proposals for transit-oriented development around the Gateway Station on the South Shore Line. Put the two together and you’re looking at roughly 200 new downtown housing units in the pipeline — about 50 already announced, and 150 more on the way.</p>",
+      "<p>Here’s the part I respect: the mayor said the city will “spike” any proposal that doesn’t meet expectations. Translation: no cutting corners, no mediocre development. Cities don’t always hold that line, and as someone who watches this market every day, I take it as a sign Hammond is serious about getting downtown right.</p>",
+      "<p>So what does this mean for your house?</p>",
+      "<p>If you own in Hammond, Hessville, or Robertsdale, pay attention. New downtown housing brings people. People bring foot traffic. Foot traffic brings retail, restaurants, and services. And real transit investment at the Gateway Station turns Hammond into a genuine commuter town — the kind of place where buyers pay a premium to live within walking distance of the train.</p>",
+      "<p>I’ve seen this pattern before. When a downtown starts filling in with housing and transit, the surrounding blocks move first. Not overnight, and not everywhere equally — but the blocks closest to downtown and the station see the strongest demand. That’s how a city’s tax base and its home values climb together.</p>",
+      "<p>Timing matters, too. This news is still under the radar — the big announcement hasn’t dropped yet. The cheapest time to be near a turnaround is before everyone knows it’s happening. Last week’s Gary teardown story was the same lesson from a different angle.</p>",
+      "<p>My takeaway, and it’s the same advice I’d give a neighbor over the fence: if you’ve been thinking about buying in Hammond, start watching now. And if you’ve been thinking about selling, this is the kind of news that changes your timeline. I’d rather own in a neighborhood with momentum behind it than in front of it.</p>",
+      SIGNOFF
+    ]
   }
 };
 
