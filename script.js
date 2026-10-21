@@ -426,6 +426,21 @@ var ARTICLES = {
       "<p>My takeaway, and it’s the same advice I’d give a neighbor over the fence: if you’ve been thinking about buying in Hammond, start watching now. And if you’ve been thinking about selling, this is the kind of news that changes your timeline. I’d rather own in a neighborhood with momentum behind it than in front of it.</p>",
       SIGNOFF
     ]
+  },
+  "article-23": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Halloween Night Is the Best Free Neighborhood Tour in Northwest Indiana",
+    body: [
+      "<p>Halloween is 10 days away, and I’ll say something that might sound strange coming from a Realtor: if you’re thinking about buying a home anywhere in Northwest Indiana, Halloween night is the most useful evening of your whole search.</p>",
+      "<p>Here’s why. A listing can tell you square footage and school districts. It cannot tell you whether the neighbors know each other. Halloween can. The streets where every porch light is on, where people decorate, where parents are standing in driveways talking — that’s not seasonal. That’s a block that takes care of itself the other 364 days too. Drive it on October 31 and you’ll know in ten minutes whether you’d want to live there.</p>",
+      "<p>First, the basics. Trick-or-treat is Saturday, October 31. Highland runs 5 to 7. Schererville 5 to 7. Dyer goes longest, 4 to 8. Cedar Lake and Lowell are 4 to 7, and Winfield is 5 to 7.</p>",
+      "<p>Now the fun stuff. Downtown Highland is doing a Haunted Restaurant Crawl on Tuesday, October 27, starting at 4 p.m., with a Trunk or Treat for the kids lining Highway Avenue that same evening. Zandstra’s Farm and Greenhouse on Kennedy Avenue brings back Homegrown Hoosier Haunts October 29 through 31 — an outdoor walk-through where local actors bring the Region’s creepy tales to life, with shows at 7 and 7:30. And if you want the heavyweight displays, make the drive to Lakes of the Four Seasons: there’s a walk-in pirate ship on Greenville Drive, a full walk-through haunt on Walnut Hill Circle, and a headless horseman setup on East Lake Shore Drive that’s best seen after dark.</p>",
+      "<p>Downtown Valparaiso gets an early start, too — businesses hand out candy Friday, October 23 from 4 to 6, with a family movie in Central Park Plaza after.</p>",
+      "<p>My takeaway, and it’s the same advice I’d give my own family: pick two or three neighborhoods you’re serious about and just drive them on Halloween night. Watch where the crowds gather. Notice which streets feel alive and which ones are dark by 6:30. That feeling is data — the kind no app will ever give you.</p>",
+      "<p>And if you’re the one handing out candy this year, porch light on. You’re part of why somebody falls in love with your street.</p>",
+      SIGNOFF
+    ]
   }
 };
 
