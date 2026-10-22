@@ -441,6 +441,23 @@ var ARTICLES = {
       "<p>And if you’re the one handing out candy this year, porch light on. You’re part of why somebody falls in love with your street.</p>",
       SIGNOFF
     ]
+  },
+  "article-24": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Big Tech Is Moving to Northwest Indiana — Here's What It Means for Your Home",
+    body: [
+      "<p>When I first heard Microsoft was building a data center in La Porte, my reaction was simple: jobs. My second reaction: all those people are going to need a place to live.</p>",
+      "<p>That just got a lot more real. Last week, Microsoft signed a 20-year power agreement with NiSource to run its data center campus in La Porte — power flowing in 2028, backed by about 1,100 megawatts of new generation. Microsoft’s original plan put the investment at $1 billion, spread across roughly 489 acres at Radius Industrial Park. Six data centers and a substation. This isn’t some back-office warehouse.</p>",
+      "<p>And La Porte isn’t alone. Wylie Capital just got preliminary approval for a $600 million data center campus in Merrillville — up to six buildings around Broadway, 93rd Avenue and Georgia Street. Amazon’s name keeps surfacing in Portage. Province Group has a $500 million proposal on the table in Merrillville too, and Hobart’s plan commission already green-lit one from an unnamed developer.</p>",
+      "<p>So what does this have to do with housing? Everything, if you follow the pattern. The construction phase brings hundreds of workers renting locally. Then the permanent jobs land — network engineers, IT staff, support people earning six figures — and those are the folks who buy homes, settle kids into schools, and put down roots. Merrillville’s own council president said it out loud: the town’s Liberty Estates development is 1,000 new housing units, and they need people to move in and buy them.</p>",
+      "<p>If you own a home in La Porte, Merrillville, Hobart, or Portage, more demand is never bad news. It doesn’t guarantee prices jump overnight — but a wave of well-paid buyers moving into a market tends to push starter homes and rentals first, then everything else.</p>",
+      "<p>If you’re a buyer, pay attention to neighborhoods near these corridors now, before the demand wave shows up. The people who buy ahead of the crowd usually do better than the ones who wait until every listing has five offers.</p>",
+      "<p>One question I keep hearing: would I buy right next to a data center? My honest answer — it depends on the house and the price. But these are quiet, fenced, modern buildings. No smokestacks. No freight trains running through your backyard. I’d take a data center next door over a vacant lot any day.</p>",
+      "<p>The takeaway is this: Northwest Indiana is getting noticed by the biggest companies on earth. If you’ve been sitting on the fence about buying here, this is the kind of news that pushes home values up over the next few years — not down.</p>",
+      "<p>Thinking about buying near La Porte, Merrillville, or Hobart before the crowd shows up? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
