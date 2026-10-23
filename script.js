@@ -458,6 +458,22 @@ var ARTICLES = {
       "<p>Thinking about buying near La Porte, Merrillville, or Hobart before the crowd shows up? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-25": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What $250K Actually Buys You: Highland vs. Hammond vs. Crown Point",
+    body: [
+      "<p>Here’s a question I get all the time: “Matt, what’s my budget actually worth around here?” So this week I did the experiment for real. I took a $250K budget — no games, no “starting at” fine print — and shopped it in three towns I work in every week: Highland, Hammond, and Crown Point.</p>",
+      "<p>Same money. Three very different answers.</p>",
+      "<p>Highland first, since I live here. Right now $250K in Highland buys something like the 3-bed, 1.5-bath 1½-story on 81st St — $245,900, 2,165 square feet, remodeled kitchen, furnace and AC from 2021. That’s a lot of house for the money. There’s also a smaller 3-bed ranch on Hart Rd at $239,000. The catch? Highland’s median list price is around $294K, so homes at $250K are the value picks — they don’t sit. When one hits, you need to be ready.</p>",
+      "<p>Hammond is where your dollar stretches the furthest. $250K there buys a fully renovated 3-bed, 2-bath on Truman St at $249,900 — granite counters, stainless appliances, four-season room. Or a brick 3-bed on 169th St for $244,900. If you want the most house for the money and you don’t care about a Highland or Crown Point zip code, Hammond wins, no contest.</p>",
+      "<p>Crown Point is the interesting one. $250K there doesn’t get you the big single-family homes the town is known for — those run well above $300K. What it does get you is a 2-3 bed ranch in Liberty Park near the Downtown Square, or a 2015-built 2-bed, 1.5-bath townhome for the same money. Smaller footprint. But Crown Point keeps growing, the Square keeps filling up, and values there have a way of marching north.</p>",
+      "<p>So what’s my take? If you want space, look at Hammond. If you want a balanced town with good schools and parks and you can move fast, Highland is quietly one of the best values in the Region right now. If you want long-term appreciation and you can live with less square footage, Crown Point.</p>",
+      "<p>The bigger lesson: at $250K, the town you pick matters more than the house. Same budget, three different lives. Pick the life first, then find the house.</p>",
+      "<p>Thinking about buying in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
