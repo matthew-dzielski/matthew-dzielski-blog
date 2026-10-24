@@ -474,6 +474,24 @@ var ARTICLES = {
       "<p>Thinking about buying in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-26": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "What I'd Tell My Neighbor About Winterizing Before the First Freeze",
+    body: [
+      "<p>Here’s the thing about late October in Northwest Indiana: you get a 70-degree Saturday, you start thinking winter is still a long way off, and then one cold night reminds you it isn’t. The first frost around here usually shows up in late October. The houses that get hurt are the ones nobody prepped.</p>",
+      "<p>I see the same repairs every winter, and almost all of them were avoidable. So here’s my list — the stuff I’d tell my own neighbor to do this weekend.</p>",
+      "<p>First, the furnace. Turn it on now, before you actually need it. Let it run for twenty minutes. If it smells like dust, that’s normal for the first run. If it sounds wrong or won’t kick on, that’s a service call you want to make this week, not in January when every HVAC tech in Lake County is booked solid. Swap the filter while you’re at it. It’s a five-dollar job that keeps the whole system breathing.</p>",
+      "<p>Second, the outdoor faucets. This is the big one, especially in the older houses around Highland and Hammond. Shut off the interior valve, open the outside faucet to drain it, disconnect the hoses and coil them up in the garage. A burst hose bib doesn’t announce itself — you find out in spring when you turn the water back on and the basement wall is wet. I’ve seen it more than once.</p>",
+      "<p>Third, the gutters. The leaves are coming down fast right now. If your gutters are full, water backs up, freezes, and you’ve got an ice dam pushing water under your shingles. A ladder, a pair of gloves, and an hour on a Saturday beats a roof leak in February.</p>",
+      "<p>Fourth, the drafts. Walk the house on a windy evening and hold your hand near the doors and windows. If you feel cold air, weatherstripping or a tube of caulk fixes most of it. Your furnace will run less, your house will feel warmer, and your January gas bill will be smaller. That’s real money back in your pocket every single month.</p>",
+      "<p>Two things people always forget: your outdoor AC unit — clear the leaves off it and cover the top, not the whole thing, so moisture can still escape. And if you have a sump pump, check the discharge line outside. If it’s clogged with leaves or frozen, the pump has nowhere to send the water.</p>",
+      "<p>None of this is hard. None of it is expensive. It’s a Saturday morning, and it’s the difference between a house that shrugs off winter and a house that hands you a repair bill in January.</p>",
+      "<p>Takeaway: do the furnace, the faucets, the gutters, and the drafts this weekend — before the first frost does the deciding for you.</p>",
+      "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
