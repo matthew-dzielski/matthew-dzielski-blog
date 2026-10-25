@@ -492,6 +492,23 @@ var ARTICLES = {
       "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-27": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "What I'd Tell a Veteran Neighbor About Buying a Home in NWI",
+    body: [
+      "<p>Veterans Day is two weeks away, and I'll be honest with you — this is the post I wish more people would read before they talk themselves out of buying a home.</p>",
+      "<p>If you served, you probably have a homebuying benefit sitting there that you haven't used. It's called a VA loan, and it's the best mortgage deal out there. I don't say that lightly. Here's what it actually means in plain English.</p>",
+      "<p>First: $0 down. Not 3%, not 5% — zero. On a typical brick ranch here in Highland or Hammond, that's tens of thousands of dollars you don't have to save before you can start looking. The thing that stops most first-time buyers — the down payment — just isn't in the way.</p>",
+      "<p>Second: no monthly PMI. That's private mortgage insurance, the extra monthly charge most low-down-payment loans tack onto your payment until you build up 20% equity. With a VA loan, it doesn't exist. Not reduced, not temporary — it just isn't part of the loan. That's real money staying in your pocket every single month, for as long as you own the home.</p>",
+      "<p>Now, the honest part: there is one fee to know about. It's called the funding fee, a one-time charge at closing — 2.15% of the loan for first-time use with no down payment. It can be rolled into the loan, so you don't have to bring extra cash to the table. And here's the part a lot of veterans don't know: if you receive VA disability compensation, the fee is waived entirely. Gone. On a $250,000 home, that's over $5,000 you don't pay.</p>",
+      "<p>A few things worth knowing before you start. The home has to be your primary residence — it's not for investment properties. The VA appraisal looks at safety and soundness, so a house with a failing roof or exposed wiring will need fixes before closing. And the benefit is reusable: use it, sell down the road, and your entitlement can come back for the next home.</p>",
+      "<p>Here's what I'd actually do if I were you. Get your Certificate of Eligibility — most VA-experienced lenders can pull it for you in minutes. Talk to a lender who does VA loans regularly, not one who does one a year. And then go look at houses in Highland, Munster, Hammond, Crown Point — wherever feels like home. You don't need 20% saved. You need a conversation.</p>",
+      "<p>Takeaway: if you served, you already earned the best mortgage benefit available. Don't let a down payment myth keep you renting.</p>",
+      "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
