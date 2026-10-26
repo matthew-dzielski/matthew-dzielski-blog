@@ -509,6 +509,25 @@ var ARTICLES = {
       "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-28": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "What I'd tell my neighbor about house-hacking a duplex in Hammond",
+    body: [
+      "<p>I get asked a lot what I'd do if I were buying my first property in Northwest Indiana right now. My honest answer: I'd look hard at a duplex in Hammond or East Chicago, live in one side, and rent out the other.</p>",
+      "<p>Here's why. Rent is not getting cheaper. Two-bedroom rentals in East Chicago are listing around $895–$1,000 a month right now. So if you own both sides of a duplex and one side brings in, say, $950 a month, that's $950 coming in against your mortgage every single month while you live in the other unit. You're not a landlord in some far-off town. You're right there, you know the place, and you can keep an eye on it.</p>",
+      "<p>There's a quick gut-check investors use called the 1% rule: monthly rent should land near 1% of the purchase price. Run it on that example. If both sides rent near $950, that's $1,900 a month total, which points to a price near $190,000. That's not a promise — it's a filter. If the numbers are nowhere near that, you walk away. If they're close, you dig in: taxes, insurance, the roof, the furnace, the water heater. The unglamorous stuff is where house-hacks succeed or fall apart.</p>",
+      "<p>And here's the part people skip: living next door to your tenant is a lifestyle choice, not just a money choice. You hear the other unit. You share a wall, a yard, sometimes a driveway. Some people love it — the tenant becomes a neighbor, not a stranger. Some people hate it. Be honest with yourself about which one you are before you buy, because no rent check is worth dreading your own front porch.</p>",
+      "<p>A few things I'd check before making an offer on any duplex around here:</p>",
+      "<p>First, can both units actually rent at the number you're counting on? Don't guess — look at what's actually listed in that neighborhood, not what a listing agent hopes for.</p>",
+      "<p>Second, what's the condition of the side you won't live in? Tenants will live with a lot, but a bad roof or a failing furnace becomes your emergency, not theirs.</p>",
+      "<p>Third, do the taxes and insurance still leave you ahead after repairs? Budget for the stuff that breaks. It always breaks.</p>",
+      "<p>House-hacking isn't a shortcut to rich. It's a way to make your first home do double duty — a place to live and a first step toward owning more. In Hammond and East Chicago, where the entry prices are still within reach for a lot of first-time buyers, it's one of the most practical paths I know.</p>",
+      "<p>If you're curious whether the numbers work on a specific duplex, that's exactly the conversation I like having. No pressure, just the math.</p>",
+      "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
