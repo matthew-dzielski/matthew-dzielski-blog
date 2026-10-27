@@ -528,6 +528,29 @@ var ARTICLES = {
       "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-29": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Tour a house like a buyer, not a guest",
+    body: [
+      "<p>Most people walk through a house like guests at a dinner party. They admire the kitchen, peek in the living room, say something nice about the paint, and leave. Then they write an offer on a place they've barely looked at.</p>",
+      "<p>Don't do that. Tour it like you might have to pay for everything you missed.</p>",
+      "<p>Here's how I tell buyers to walk a house in Northwest Indiana — whether it's a brick ranch off Kennedy Avenue in Highland or a two-story in Munster:</p>",
+      "<p>Open every closet. Not one. Every one. Closets tell you how people actually lived in the house, and whether there's anywhere to put your stuff.</p>",
+      "<p>Run the taps. All of them, hot and cold. Flush the toilets. Weak water pressure and slow drains are small annoyances until they're your Saturday and your plumber's invoice.</p>",
+      "<p>Look under the sinks. Water stains, warped wood, that musty smell — that's the house telling you something leaked. Believe it.</p>",
+      "<p>Check the electrical panel. Is it labeled, or is every breaker a mystery? An old panel with fuses isn't a dealbreaker by itself, but you want to know what you're buying before the inspector tells you.</p>",
+      "<p>Stand in the basement and listen. Seriously. Stand still for a minute. Do you hear water? A humming sump pump working overtime? Feel the walls. Dampness down there is a Northwest Indiana classic, and it's a lot cheaper to notice it now than after your boxes are in.</p>",
+      "<p>Look at the windows, too. Open a couple. If they stick, or the locks don't catch, that's real life in January when the wind comes off the lake.</p>",
+      "<p>Then leave — and come back at night. Drive the street after dark. See who's parked where, how loud it is, whether the streetlights actually work. A neighborhood at 2 p.m. on a Saturday and a neighborhood at 9 p.m. on a Tuesday are two different places. You want to meet both of them before you offer.</p>",
+      "<p>None of this replaces a home inspection. The inspector is still going to find things you won't. But this walk-through does something an inspection can't: it stops you from falling in love with the pretty stuff before you've seen the boring stuff.</p>",
+      "<p>The pretty stuff is paint and staging. The boring stuff is the roof, the furnace, the panel, the basement, the water. The boring stuff is what costs you money.</p>",
+      "<p>So next time you tour, slow down. Take your time in the rooms nobody photographs. Ask the awkward questions. Open the thing you're not supposed to open. That's not rude. That's buying a house.</p>",
+      "<p>If you want a second set of eyes on a tour around here, that's what I'm for. Bring me along — I'll open the closets with you.</p>",
+      "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
+      SIGNOFF
+    ]
   }
 };
 
