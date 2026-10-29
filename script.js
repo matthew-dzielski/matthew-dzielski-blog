@@ -551,6 +551,26 @@ var ARTICLES = {
       "<p>Thinking about buying or selling in Northwest Indiana? Call or text me: (219) 356-6565.</p>",
       SIGNOFF
     ]
+  },
+  "article-31": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "You Don't Have to Waive the Inspection to Win the House",
+    body: [
+      "<p>Here's a question I get from buyers in Northwest Indiana: should I waive the inspection to make my offer stronger?</p>",
+      "<p>I get why people ask. When you love a house and you're afraid someone else will grab it, waiving the inspection feels like showing the seller you're serious.</p>",
+      "<p>My answer is almost always no. Don't waive it. Make the rest of your offer so clean the seller says yes anyway.</p>",
+      "<p>An inspection is the one look under the hood you get before the house is yours. And around here, that look matters. A brick ranch in Highland can look perfect from the curb and still have a roof at the end of its life. A two-story in Munster can have a furnace that's been limping along for years. A basement in Hammond can stay damp every time it rains hard, and you won't smell it on a sunny Saturday showing. None of that makes it a bad house. You just need to know what you're buying — and what it'll cost you in the first year.</p>",
+      "<p>So how do you win without waiving? You give the seller certainty in every other part of the offer.</p>",
+      "<p>First, shorten the inspection window. Instead of the usual ten days, offer five or seven, and mean it. Get your inspector booked the day the offer is accepted.</p>",
+      "<p>Second, tell the seller what the inspection is for. Put it plainly: you'll only ask for repairs on the big stuff — roof, foundation, furnace, water coming in. The squeaky door, the loose handle, the scuffed paint? That's yours. You're not looking for reasons to renegotiate. You're looking for deal-breakers.</p>",
+      "<p>Third, clean up everything else. A real pre-approval from a lender who actually checked your paperwork — not a quick online estimate. Proof you can cover your down payment. A closing date that works for the seller. If they need an extra two weeks to move, give it to them if you can. That flexibility is worth a lot to many sellers, and it costs you nothing but patience.</p>",
+      "<p>I've seen buyers waive the inspection and win the house, then spend their first winter paying for a roof they didn't know was failing. I've also seen buyers keep the inspection, offer a five-day window, and win anyway — because the seller picked the offer that felt most certain to close, not the one that took the most risk.</p>",
+      "<p>That's the real contest. Sellers don't pick the bravest offer. They pick the one they're most sure will close.</p>",
+      "<p>Takeaway: keep the inspection, make it fast, limit it to the big stuff, and make the rest of your offer the easiest yes on the table.</p>",
+      "<p>That's how you win the house and still sleep at night.</p>",
+      SIGNOFF
+    ]
   }
 };
 
