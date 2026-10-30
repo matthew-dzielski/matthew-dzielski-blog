@@ -571,6 +571,23 @@ var ARTICLES = {
       "<p>That's how you win the house and still sleep at night.</p>",
       SIGNOFF
     ]
+  },
+  "article-32": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Moving from Illinois to Indiana? Here's What Actually Changes",
+    body: [
+      "<p>I talk to Chicago-area buyers every week who are eyeing Northwest Indiana, and they all ask me the same thing: what actually changes when you cross the state line?</p>",
+      "<p>Here's the honest answer, from someone who shows houses on this side of the line every day.</p>",
+      "<p>The money part comes first, because it's the part that usually tips the decision. Indiana caps a primary home's property tax at 1% of its gross assessed value. That's written into the state constitution — it's a ceiling, not a target. Illinois has nothing like it, and Cook County's effective rate runs close to 2%. So on the same-priced house, you can be looking at a meaningfully smaller tax bill every single year you own it. That's real money back in your pocket, month after month.</p>",
+      "<p>But the tax bill isn't the whole story, and I won't pretend it is. Your commute changes. If you're used to hopping on the expressway from the south suburbs, you'll want to actually drive your new route at rush hour before you buy — the Borman and I-94 don't care about your Zillow estimate. Same for the South Shore Line if you're a train person. A house that looks perfect on a Saturday open house can feel very different at 7 a.m. on a Tuesday.</p>",
+      "<p>Your schools change, too, and that's where I tell people to slow down. Lake Central, Munster, Highland, Crown Point — these are different districts with different feels, and the right one depends on your kids, not a ranking list. Drive the neighborhoods. Walk them in the evening. See who's out, what's quiet, what feels like home.</p>",
+      "<p>Then there's the paperwork, and this is the part people forget until it costs them. New plates and registration. A new Indiana license. And once you close, file for Indiana's homestead deduction — that's how you actually get the tax break, and it doesn't happen automatically. Put it on the list for closing week, not “someday.”</p>",
+      "<p>One more thing nobody tells you: the pace is different here, and I mean that as a compliment. People wave. Neighbors talk over fences. In Highland, where I'm based, you can still find a solid brick ranch on a quiet street without paying a premium for the privilege of a yard.</p>",
+      "<p>So here's my takeaway, plain as I can say it: don't move for the tax bill alone. Move because the house, the commute, and the town all fit — and let the lower tax bill be the bonus that makes the whole thing work better.</p>",
+      "<p>If you're thinking about the jump, call me. I'll drive the neighborhoods with you and tell you straight what I'd tell my own neighbor.</p>",
+      SIGNOFF
+    ]
   }
 };
 
