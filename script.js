@@ -588,6 +588,26 @@ var ARTICLES = {
       "<p>If you're thinking about the jump, call me. I'll drive the neighborhoods with you and tell you straight what I'd tell my own neighbor.</p>",
       SIGNOFF
     ]
+  },
+  "article-33": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Condo or House? What I'd Tell a First-Time Buyer in Northwest Indiana",
+    body: [
+      "<p>If you're buying your first place in Northwest Indiana, sooner or later you hit the same fork in the road: a condo, or a single-family house?</p>",
+      "<p>I get this question constantly, and here's the thing — there's no right answer. There's a right answer for you, and it depends on how you actually live your life.</p>",
+      "<p>Let's start with the condo. The biggest draw is simple: it usually costs less to get into, and it asks less of you once you own it. No lawn to mow. No roof to replace. No gutters to clean in November when you'd rather be anywhere else. The association handles the outside, and you handle your own four walls. If you work long hours, travel a lot, or just don't want your weekends eaten by yard work, that is a real quality-of-life win — not a compromise.</p>",
+      "<p>The trade-offs are real, too, and I won't gloss over them. There's a monthly HOA fee, and it goes up over time. There are rules about what you can change, who can live there, sometimes even what color your door can be. And you share walls. If your neighbor's idea of a good Saturday morning is power tools at 7 a.m., that's your Saturday morning, too.</p>",
+      "<p>Now the house. A single-family place costs more up front, and nobody's coming to mow your lawn for you. But what you get is space — your own yard, your own garage, your own decisions. Want a garden? Plant one. Want a dog that needs room to run? There's the yard. Want to paint the front door bright red on a Tuesday? Nobody's stopping you.</p>",
+      "<p>And here's something I tell my first-time buyers all the time: in towns like Highland, Munster, and Crown Point, a solid starter ranch is one of the steadiest buys in Northwest Indiana. These aren't flashy houses. They're brick, they're well-built, and they've been holding their value for decades because people always want them. If you can stretch to one without maxing out your budget, it's hard to go wrong.</p>",
+      "<p>So how do you actually decide? I give my buyers three questions.</p>",
+      "<p>One: what does your week look like? If you're gone 50 hours a week and home mostly to sleep, a condo's low upkeep is worth more than a yard you'll never use.</p>",
+      "<p>Two: what's your real monthly number? Not the mortgage — the mortgage plus taxes, insurance, and the HOA fee. A condo with a $350 HOA fee and a house with no fee can end up in the same place. Run the full number before you fall in love with either one.</p>",
+      "<p>Three: where are you in five years? A condo is a great first step, but if a family and a dog are in the near future, you might outgrow it fast — and moving again in three years eats into everything you saved.</p>",
+      "<p>Here's my takeaway, plain as I can say it: buy the life you actually live, not the one you think you should want. The cheapest payment in the world isn't a bargain if you resent the place a year later. And the biggest yard in Lake County isn't worth it if you're never home to enjoy it.</p>",
+      "<p>If you're weighing this right now, call me. We'll walk through both kinds of places, run the real numbers, and figure out which one actually fits your life.</p>",
+      SIGNOFF
+    ]
   }
 };
 
