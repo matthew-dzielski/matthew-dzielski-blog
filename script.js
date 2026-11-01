@@ -608,6 +608,22 @@ var ARTICLES = {
       "<p>If you're weighing this right now, call me. We'll walk through both kinds of places, run the real numbers, and figure out which one actually fits your life.</p>",
       SIGNOFF
     ]
+  },
+  "article-34": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "New Build vs. Existing in NWI: What I'd Actually Compare Before You Choose",
+    body: [
+      "<p>New build or existing home? I get asked this almost every week, and I get why. Drive through Crown Point or St. John and the new subdivisions look perfect — fresh paint, clean sidewalks, nobody else's problems. Then you tour a brick ranch in Highland or Munster with a big yard and real trees, and that feels like home too.</p>",
+      "<p>Here's how I actually talk buyers through it.</p>",
+      "<p>A new build buys you newness. New roof, new furnace, new water heater, and a builder warranty behind it all. Right now there's another reason to look: builders are dealing. A national builder survey from September had two-thirds of builders offering incentives, and nearly four in ten cutting prices, by about 6% on average. If you've been priced out of new construction before, this is the moment to at least run the numbers.</p>",
+      "<p>But new costs more, and the state numbers back that up. The Indiana Association of REALTORS® put the median new single-family home at $380,000 in 2025, against $275,000 for all Indiana homes sold in the first half of 2026 — and $277,000 here in Northwest Indiana. Part of that gap is size and finishes, part of it is just newness. And the price on the model home sign is rarely the price you end up at. Upgrades add up fast, and so do HOA dues in a brand-new subdivision. Ask for the all-in monthly number before you get attached.</p>",
+      "<p>An existing home buys you a neighborhood you can see. The trees are grown. The neighbors are real people, not a rendering. You can look up the actual tax bill instead of guessing at one. And you usually get more house for the money, plus room to negotiate — a seller with a roof that's ten years old knows it, and that shows up in the price.</p>",
+      "<p>What you give up is certainty. That furnace might have five good years left or five bad months. The roof might be fine or it might be your first big check after closing. That's why I push my buyers to get a real inspection and real quotes, not just a guess. A $12,000 roof you know about is a negotiating point. A $12,000 roof you find out about in February is a problem.</p>",
+      "<p>So here's my takeaway, and it's the same one I give in person: don't compare sticker prices. Compare what each house costs you to own. Take the new build's price plus upgrades, HOA, and taxes, and put it next to the existing home's price plus the roof, furnace, and updates it actually needs. Whichever number is lower — and whichever house fits the life you live — that's your answer.</p>",
+      "<p>Still torn? Call me and tell me the two houses you're looking at. I'll run the comparison with you, straight, no sales pitch.</p>",
+      SIGNOFF
+    ]
   }
 };
 
