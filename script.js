@@ -624,6 +624,23 @@ var ARTICLES = {
       "<p>Still torn? Call me and tell me the two houses you're looking at. I'll run the comparison with you, straight, no sales pitch.</p>",
       SIGNOFF
     ]
+  },
+  "article-35": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "How to Read Indiana's Seller's Disclosure (Before You Fall in Love With the House)",
+    body: [
+      "<p>Before you fall in love with a house in Indiana, there's one document you need to read slowly: the seller's disclosure.</p>",
+      "<p>In Indiana, the seller fills out State Form 46234 and delivers it to you before you make an offer. It's not marketing. It's the seller, in writing, telling you what they know about the house — the roof, the foundation, water problems, the furnace and air conditioning, plumbing, and any other defects they're aware of.</p>",
+      "<p>Most buyers skim it. Don't. Here's how I walk my buyers through it.</p>",
+      "<p>Start with water. Any mention of basement leaks, a sump pump, past flooding, or water stains tells you more about the house than the listing photos do. Water is the one problem that touches everything — foundation, mold, flooring, resale value. If the disclosure mentions it, that's not a reason to walk away. It's a reason to get a serious inspection and a real quote for the fix before you offer.</p>",
+      "<p>Next, the ages. Roof age, furnace age, water heater age. A disclosure that says the roof is 22 years old is telling you a $12,000–$15,000 bill is coming, and that belongs in your offer math, not in your surprise column after closing.</p>",
+      "<p>Then read for what's missing. A disclosure on a 60-year-old house that says \"no known defects\" across every line isn't necessarily a lie — but it means the seller either doesn't know or isn't saying, and your inspection has to work harder. I'd rather see an honest list of problems than a blank page. Problems you know about can be priced, inspected, and negotiated. Problems you don't know about just show up later.</p>",
+      "<p>Here's what the disclosure is not: a guarantee, and not a substitute for an inspection. It only covers what the seller knows. A seller who lived there two years may genuinely not know the basement leaks in a hard spring rain. That's why the disclosure and the inspection work as a pair — one tells you what to look at, the other tells you what's actually true.</p>",
+      "<p>My takeaway, plain as I can say it: read the disclosure before you write the offer, not after. Bring it to your inspection. Ask your inspector about every line that made you pause. And if something in it scares you, that's useful — it tells you exactly what to negotiate, whether that's a repair, a credit, or a price that reflects the work ahead.</p>",
+      "<p>If you're looking at a house and the disclosure has you unsure, call me. We'll go through it line by line and figure out what it actually means for your offer.</p>",
+      SIGNOFF
+    ]
   }
 };
 
