@@ -641,6 +641,23 @@ var ARTICLES = {
       "<p>If you're looking at a house and the disclosure has you unsure, call me. We'll go through it line by line and figure out what it actually means for your offer.</p>",
       SIGNOFF
     ]
+  },
+  "article-36": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "What I'd tell my neighbor about touring houses now that it's dark at 5",
+    body: [
+      "<p>The clocks fell back Sunday. That means it's dark by 5 now, and if you're house-hunting in Northwest Indiana, that changes the showing game.</p>",
+      "<p>I had a buyer last fall who loved a house on an evening tour. The kitchen looked great under the lights. The living room felt cozy. We went back in daylight and saw a different house — a yard that sloped toward the foundation, gutters pulling away from the roof, and a driveway that held water. None of that showed up at night.</p>",
+      "<p>So here's my rule now: daylight for the house, nighttime for the neighborhood.</p>",
+      "<p>In daylight, start outside. Walk the yard. Look at how the ground slopes — does water run away from the house or toward it? Around here, with our clay soil and flat lots in places like Highland and Griffith, that matters more than most buyers realize. Look at the roof lines, the gutters, the siding, and the windows. You can see the real condition of all of it when the sun is out.</p>",
+      "<p>Inside, flip on every light, but also look at the windows themselves. Do they feel drafty? Is there condensation between the panes? Run the furnace if it's cold out — you want to hear it, not just trust that it works.</p>",
+      "<p>Then, separately, do an evening drive-by. Don't even go inside. Just drive the block after dark. Are the streetlights on? Is parking a fight once everyone is home? Can you hear the main road from the backyard? Is the block actually quiet, or did it just seem quiet at 2 in the afternoon?</p>",
+      "<p>A house can pass one of those tests and fail the other. You want both.</p>",
+      "<p>One more thing: if a seller or listing only offers evening showings, ask for a daylight slot before you write an offer. A good listing can handle the sunlight. If someone pushes back on that, that's information too.</p>",
+      "<p>Here's your takeaway for this week: never make your only visit to a house after dark. See it in daylight, then see the neighborhood at night, and you'll know a lot more than the photos ever told you.</p>",
+      SIGNOFF
+    ]
   }
 };
 
