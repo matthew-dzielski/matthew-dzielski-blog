@@ -658,6 +658,25 @@ var ARTICLES = {
       "<p>Here's your takeaway for this week: never make your only visit to a house after dark. See it in daylight, then see the neighborhood at night, and you'll know a lot more than the photos ever told you.</p>",
       SIGNOFF
     ]
+  },
+  "article-37": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Rates dipped. Here's what I'd actually do with that.",
+    body: [
+      "<p>Two months. That's how long mortgage rates climbed or just sat there. Then last week, Freddie Mac's weekly survey finally moved the other way: the 30-year fixed came in at 7.32%, down from 7.40%.</p>",
+      "<p>Some context on that number. 7.40% was the 2026 high — two straight weeks there, the highest since late 2023. This is the first weekly drop since late August. Freddie Mac's chief economist called it \"some relief to prospective homebuyers,\" and that's about the right size for it. Relief, not a rescue.</p>",
+      "<p>Here's the math, honestly. On a $300,000 loan, the difference between 7.40% and 7.32% is about $16 a month. I'm not going to pretend that's life-changing money. But direction matters. After two months of up or flat, the number finally moved the way buyers want it to, and if you've been sitting on the sidelines, that break is worth noticing.</p>",
+      "<p>Now the other honest number: a year ago, the same loan was 6.19%. We're still more than a full point above that. The Fed held rates steady at its late-October meeting, and either way, the Fed doesn't set your mortgage rate — so don't build your whole plan around a headline out of Washington.</p>",
+      "<p>So what would I actually do with a dip like this? Three things.</p>",
+      "<p>First, get pre-approved now, before you fall for a house. Around here, a good house in Highland or Munster doesn't wait while you get your paperwork together. Pre-approval means your offer is serious the minute it lands.</p>",
+      "<p>Second, run the payment on the actual house, not the rate headline. Your taxes and insurance here in Lake County swing the monthly number more than an eighth of a point on the rate does. A house at 7.32% that you can actually afford beats a house at 6.5% that you can't.</p>",
+      "<p>Third, if the house is right and the payment works, buy the house. You can refinance a rate later. You can't refinance the house you missed.</p>",
+      "<p>One more thing that matters here in Northwest Indiana: inventory is better than it was two years ago, and buyers have more breathing room than they did. The rate is the variable now, not a bidding war. That's a calmer place to make a big decision, and a dip like this one is a decent moment to start.</p>",
+      "<p>So here's my takeaway: don't chase the perfect rate. Watch the payment, watch the house, and be ready when both line up. That's how you buy well in a market like this one.</p>",
+      "<p>If you're thinking about it, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
+      SIGNOFF
+    ]
   }
 };
 
