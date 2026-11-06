@@ -677,6 +677,21 @@ var ARTICLES = {
       "<p>If you're thinking about it, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
       SIGNOFF
     ]
+  },
+  "article-38": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Lake County just went balanced. Here's what I'd do with that.",
+    body: [
+      "<p>Realtor.com's October numbers for Lake County just landed, and there's a word in there I haven't been able to use honestly for a couple of years: balanced.</p>",
+      "<p>Median list price is $309,997. Median sold price is $280,822. Homes are sitting about 57 days, and they're selling at 99% of asking. Realtor.com calls that a balanced market — supply and demand roughly even. After years of one side or the other holding all the cards, that's worth paying attention to.</p>",
+      "<p>Here's what balanced actually looks like on the ground around here. Two years ago, a good house in Highland or Munster got five offers by Sunday and the winner was whoever waived the most. Then the pendulum swung the other way and sellers started cutting prices just to get a showing. Now? Neither side runs the table. That's the whole point.</p>",
+      "<p>If you're buying, 57 days on market is your friend. It means you can sleep on a house. You can get a real inspection instead of waiving it to win. You can make an offer with terms that actually protect you. But don't read this as a fire sale — 99% of asking means good houses still don't go cheap. Lowball offers still get ignored around here. My advice: get pre-approved now and tour while the spring crowd is still on the sidelines. The houses are there, and you have time to choose well.</p>",
+      "<p>If you're selling, the lesson is the opposite of what it was two years ago and the same as it's always been: price it right the first week. The homes that sit past 60 days are the ones that end up cutting, and a cut costs you more than pricing it sharp on day one. Get a real CMA — closed sales in your neighborhood, not a Zestimate — and trust it.</p>",
+      "<p>Here's my takeaway: a balanced market rewards the people who do the homework. Buyers who are pre-approved and ready, sellers who price on real comps. If you're either one, this is a good window — calmer than the frenzy, fairer than a downturn.</p>",
+      "<p>If you're thinking about it, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
+      SIGNOFF
+    ]
   }
 };
 
