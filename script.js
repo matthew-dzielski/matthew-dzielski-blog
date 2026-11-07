@@ -692,6 +692,23 @@ var ARTICLES = {
       "<p>If you're thinking about it, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
       SIGNOFF
     ]
+  },
+  "article-39": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "The headlines say it's a buyer's market. Northwest Indiana didn't get the memo.",
+    body: [
+      "<p>You've probably seen the headlines by now: 41 of the 50 biggest metro areas in the country are officially buyer's markets. Nationally, sellers outnumber buyers by 63% — the biggest gap in at least 13 years. If you've been waiting for the market to turn, that sounds like your moment.</p>",
+      "<p>Here's the part the headlines leave out: Northwest Indiana isn't most of the country.</p>",
+      "<p>We never overbuilt here. While other parts of the country were throwing up subdivisions faster than buyers could fill them, Lake and Porter counties stayed steady. That's why prices around here are still climbing about 6% while oversupplied markets sit flat. The handful of seller's markets left in the country look a lot like us — supply-starved places where a well-priced home in a good school district still moves.</p>",
+      "<p>So what does the national buyer's market actually mean for you, here?</p>",
+      "<p>If you're buying, it means breathing room — real breathing room. You can tour a house on Saturday, sleep on it, and still have a shot on Monday. You can get an actual inspection instead of waiving it to win. You can write an offer with terms that protect you. That's a real change from two years ago, and it's worth using.</p>",
+      "<p>But don't mistake breathing room for a fire sale. A good house in Highland, Munster, or Crown Point still doesn't go cheap. Lowball offers still get ignored. The 30-year fixed is sitting around 7.32%, and the sellers who price it right the first week are still getting close to asking.</p>",
+      "<p>If you're selling, the message is the same one I've been giving all fall: price it right the first week. Buyers can afford to be picky now, and the homes that sit are the ones that end up cutting. A real CMA — closed sales in your neighborhood, not a Zestimate — is worth more than ever.</p>",
+      "<p>My takeaway is simple. Don't make a Northwest Indiana decision off a national headline. The country can be a buyer's market and your street can still be competitive. The numbers that matter are the ones on your block.</p>",
+      "<p>If you're thinking about buying or selling, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
+      SIGNOFF
+    ]
   }
 };
 
