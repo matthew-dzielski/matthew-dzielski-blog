@@ -709,6 +709,23 @@ var ARTICLES = {
       "<p>If you're thinking about buying or selling, call me. We'll run your real numbers on a real house in your town and see what actually works.</p>",
       SIGNOFF
     ]
+  },
+  "article-40": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Highland homes are sitting 54 days now. Here's what I'd do with that.",
+    body: [
+      "<p>I live in Highland. I sell homes in Highland. So when I tell you the market here just changed, I'm not reading it off a national headline — I'm watching it on streets I drive every day.</p>",
+      "<p>Here's the number that matters: the typical Highland home now sits 54 days before it sells. A year ago, it was about 28. That's nearly twice as long, and it's the biggest shift in our market in a while.</p>",
+      "<p>Now here's the part that trips people up. Prices haven't fallen. The median listing price in Highland is $275,000, and the median sold price is $274,950 — basically flat, even up a touch from last year. About one in four homes still sells above asking. So if you're waiting for Highland prices to drop, you're waiting for something that isn't happening.</p>",
+      "<p>What's changed is the pace, not the value. And pace changes everything about how you play it.</p>",
+      "<p>If you're buying in Highland right now, this is the best position you've been in for years. You can tour a house on Saturday, sleep on it, and still have a shot on Monday. You can go back a second time and actually look at the furnace, the water heater, the basement corners — the stuff you couldn't check when homes were gone in a weekend. You can get a real inspection instead of waiving it to win. That's not a small thing. That's the difference between buying a house and buying a surprise.</p>",
+      "<p>But don't mistake a slower market for a soft one. The good homes still move. A well-priced brick ranch near Wicker Park or off Indianapolis Boulevard doesn't sit for 54 days — the homes sitting are the ones that came in too high and got passed over. Lowball offers still get ignored here.</p>",
+      "<p>If you're selling, the message is simple: price it right the first week. I keep saying it because it keeps being true. In a 28-day market, an overpriced listing got forgiven — somebody would bite anyway. In a 54-day market, buyers have time to compare, and they do. The homes that sit are the ones that end up cutting, and a cut after a month costs you more than pricing it sharp on day one.</p>",
+      "<p>My takeaway is this. Highland isn't a buyer's market and it isn't a seller's market — it's a market that finally rewards patience and punishes guessing. Buyers, use the time. Sellers, use the first week.</p>",
+      "<p>If you're thinking about buying or selling in Highland, call me. We'll run your real numbers on a real house on your street and see what actually works.</p>",
+      SIGNOFF
+    ]
   }
 };
 
