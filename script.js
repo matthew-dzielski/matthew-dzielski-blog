@@ -726,6 +726,26 @@ var ARTICLES = {
       "<p>If you're thinking about buying or selling in Highland, call me. We'll run your real numbers on a real house on your street and see what actually works.</p>",
       SIGNOFF
     ]
+  },
+  "article-41": {
+    tag: "First-time buyers",
+    color: "#2E6FA8",
+    title: "What I'd tell my neighbor about buying with 3.5% down",
+    body: [
+      "<p>Most people I talk to think you need 20% down to buy a house. That's the number stuck in everybody's head, and for a lot of folks around here, it's the reason they're still renting.</p>",
+      "<p>Here's the thing: you don't.</p>",
+      "<p>There's a loan called an FHA loan, and it lets you buy with 3.5% down if your credit score is 580 or better. Let me put real numbers on that. A $275,000 house — right around Highland's median sold price — at 20% down means $55,000 cash. With an FHA loan, that same house takes $9,625. That's the difference between \"maybe in five years\" and \"maybe this spring.\"</p>",
+      "<p>The 2026 FHA loan limit in Indiana is $541,287. That covers just about every house in Lake and Porter County, so this isn't some program that only works on starter homes in the middle of nowhere. It works on the brick ranch in Highland, the split-level in Schererville, the two-story in St. John.</p>",
+      "<p>And the rate isn't a penalty, either. FHA quotes were running around 6.5% last week, while the Freddie Mac survey had the average 30-year fixed at 7.18%. Your quote depends on your credit and your lender, but FHA isn't the expensive option people assume.</p>",
+      "<p>Now, the honest part — there are catches, and I'd rather you hear them from me than find them in a closing disclosure.</p>",
+      "<p>First, mortgage insurance. FHA charges 1.75% upfront, usually rolled into the loan, plus 0.55% a year. And here's the part most people miss: unlike conventional PMI, FHA's insurance doesn't drop off when you hit 20% equity. It stays. Most FHA buyers refinance into a conventional loan a few years in, once they've built equity, and that's how they get rid of it. It's a real cost — go in with your eyes open.</p>",
+      "<p>Second, it has to be your primary home. FHA doesn't finance investment properties.</p>",
+      "<p>Third, if your credit score is between 500 and 579, FHA still works — but the down payment jumps to 10%. Still a long way from 20%, but worth knowing before you start house hunting.</p>",
+      "<p>So who is this for? The renter in Highland or Griffith with steady income, decent credit, and a few thousand saved — but not fifty thousand. The first-time buyer who can handle the monthly payment but can't clear the down-payment wall. If that's you, the down payment was never the real test. The monthly payment was.</p>",
+      "<p>My takeaway is simple. If the down payment is what's keeping you renting, ask your lender to quote you an FHA loan and a conventional loan side by side on the same house — same price, full monthly payment, everything included. That's the comparison that tells you the truth. Don't let a number you heard years ago keep you on the sidelines.</p>",
+      "<p>If you want to talk through what you'd actually qualify for on a real house on your street, call me. We'll run the numbers together.</p>",
+      SIGNOFF
+    ]
   }
 };
 
