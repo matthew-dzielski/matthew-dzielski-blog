@@ -746,6 +746,23 @@ var ARTICLES = {
       "<p>If you want to talk through what you'd actually qualify for on a real house on your street, call me. We'll run the numbers together.</p>",
       SIGNOFF
     ]
+  },
+  "article-42": {
+    tag: "Neighborhood spotlight",
+    color: "#8E5AA8",
+    title: "What I'd tell my neighbor about buying in Schererville right now",
+    body: [
+      "<p>Schererville doesn't get talked about the way Munster and St. John do. It should.</p>",
+      "<p>The typical home in Schererville is selling between $335,000 and $362,000 this fall, depending on who counts and how. That's not a guess — that's closed sales. And a well-priced one goes under contract in about three weeks. Twenty-two days to pending, if you want the exact number.</p>",
+      "<p>Here's the part that matters if you're buying: there aren't many to choose from. Active listings are down by about a third from last year. It's still a seller's market, with roughly a month and a half of supply. The homes that are priced right move. The ones that aren't sit — same as everywhere else in the county right now.</p>",
+      "<p>So what are you actually getting for that money? Mostly brick ranches and split-levels, solid houses on real lots, in neighborhoods people stay in for decades. Lake Central schools. And you're right at I-80/94 and I-65, so the commute works whether you're headed to Chicago or staying local. The South Shore Line's new stations are a short drive northwest, too.</p>",
+      "<p>I keep meeting buyers who start out looking at Munster or St. John, then realize Schererville gets them the same kind of house — and the same kind of street — for less money. Not a worse house. The same house, in a town that costs less. That's the whole story.</p>",
+      "<p>Now, the honest part. This isn't a market where you can tour on Saturday, think about it all week, and come back with an offer the next weekend. With inventory this thin, the good ones go in three weeks or less. That doesn't mean you should panic-buy. It means you should know your number before you start touring — your real monthly payment, not just the price — and when you find the right one, move.</p>",
+      "<p>And if you're selling in Schererville, the advice is the same one I keep giving everywhere in the county: price it right the first week. In a market where buyers have three weeks of patience, an overpriced listing gets passed over, and a price cut after a month costs you more than pricing it sharp on day one.</p>",
+      "<p>My takeaway is simple. Schererville is the town for the buyer who wants the Lake County life — good schools, a solid brick house, a short drive to everything — without paying the Munster or St. John premium. If that sounds like you, it's worth a serious look before the spring crowd shows up.</p>",
+      "<p>If you want to talk through what you'd actually pay on a real house on a real Schererville street, call me. We'll run the numbers together.</p>",
+      SIGNOFF
+    ]
   }
 };
 
