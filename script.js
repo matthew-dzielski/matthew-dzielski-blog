@@ -763,6 +763,22 @@ var ARTICLES = {
       "<p>If you want to talk through what you'd actually pay on a real house on a real Schererville street, call me. We'll run the numbers together.</p>",
       SIGNOFF
     ]
+  },
+  "article-43": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What I'd tell my neighbor about buying in Gary right now",
+    body: [
+      "<p>Gary doesn't get talked about the way the rest of Lake County does. It should — at least if you're a buyer on a tight budget.</p>",
+      "<p>Here's the number that stopped me: the median asking price in Gary is about $123,000 right now, down 12.5% from a year ago. That's not a typo. One hundred and twenty-three thousand dollars. In the same county where Schererville runs $335,000 to $362,000 and Highland's median is around $275,000.</p>",
+      "<p>And November is the best month to look. Gary historically has the most homes for sale in November — about 9% more than the yearly average. Right now there are 253 homes on the market, and nearly 1 in 3 sellers has already cut their price. Homes are sitting about 59 days, which means you actually get time to think. That's not something you can say in most of Lake County.</p>",
+      "<p>So what's the catch? There's always a catch, and I'll tell you straight: Gary is block by block. Some streets are solid and quiet, full of people who've owned their homes for decades and take care of them. Others need real work — roofs, furnaces, the kind of stuff that eats a budget fast if you don't catch it before you buy.</p>",
+      "<p>That's the whole game in Gary. The deal is real, but you have to know what you're looking at. A $123,000 house that needs $40,000 of work isn't a $123,000 house. A $123,000 house on a good block with a solid roof and a furnace that's got ten years left? That's a first home. That's a rental that cash-flows. That's how people actually build wealth in this county — not by stretching for the most expensive house they can afford, but by buying the cheapest house on a good street and holding it.</p>",
+      "<p>If you're a first-time buyer who's been priced out of Highland, Munster, or Crown Point, Gary is worth a serious look this month while the choice is widest. If you're an investor, the same math applies — just run the rehab numbers honestly before you fall in love with the price tag.</p>",
+      "<p>My takeaway is simple. Don't write off Gary because of the headlines, and don't buy there because of the price tag alone. Walk the block. Talk to the neighbors. Get a real inspection, not a drive-by. Do that, and November in Gary is the best buying window in Northwest Indiana right now.</p>",
+      "<p>If you want me to walk a Gary street with you and tell you what I'd actually pay, call me. That's what I'm here for.</p>",
+      SIGNOFF
+    ]
   }
 };
 
