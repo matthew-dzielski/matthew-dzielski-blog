@@ -779,6 +779,21 @@ var ARTICLES = {
       "<p>If you want me to walk a Gary street with you and tell you what I'd actually pay, call me. That's what I'm here for.</p>",
       SIGNOFF
     ]
+  },
+  "article-44": {
+    tag: "Market update",
+    color: "#2E6FA8",
+    title: "What a price cut really tells you — and how to use it",
+    body: [
+      "<p>I keep seeing the same thing on my drive through Highland and Griffith this week: price cuts. Not one or two — a lot of them. A house that was listed at one price last month is sitting lower now. Another one I watched in Hammond has dropped more than once since the fall.</p>",
+      "<p>It's not just my route. In Gary, nearly 1 in 3 listings — about 30% — has had a price cut. Across Indiana, it's about 1 in 5. Here in Lake County, the median listing is about $310,000, and homes are sitting around 57 days. That's a market where sellers are adjusting, not a market where they're getting their first number.</p>",
+      "<p>Here's what I tell my buyers: a price cut is information, not a warning. Nine times out of ten, the house didn't get worse. The seller just started too high, the market said no, and now they're correcting. The house is the same house it was on day one. The price is just closer to honest.</p>",
+      "<p>That doesn't mean every cut is a deal. Three things I check before I tell a buyer to get excited: how long it's been sitting, how big the cut is, and what the neighbors actually sold for. A $10,000 cut on a house that's been listed 90 days means something different than a $25,000 cut after two weeks. And if the house next door sold for $240,000 last month, a \"cut\" to $265,000 isn't a bargain — it's still too high.</p>",
+      "<p>The mistake I see buyers make: they lowball the cut house like it's damaged goods, and they lose it to the buyer who offered something fair and clean. A price cut means the seller is listening. Meet them with a real number — backed by comps, not by a guess — and a clean offer, and you'll do better than the buyer who tries to steal it.</p>",
+      "<p>My takeaway is simple. Don't scroll past the houses with the little red \"price cut\" tag. Read them like I do: check the days on market, check the comps, and if the numbers work, move. In a market like this one, the best deals aren't the houses that never budge. They're the ones where the seller already blinked.</p>",
+      "<p>If you want me to run the real numbers on a house you're watching — what it's actually worth, not just what it's listed for — call me. That's what I'm here for.</p>",
+      SIGNOFF
+    ]
   }
 };
 
