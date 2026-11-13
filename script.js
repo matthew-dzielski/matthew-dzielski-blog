@@ -794,6 +794,26 @@ var ARTICLES = {
       "<p>If you want me to run the real numbers on a house you're watching — what it's actually worth, not just what it's listed for — call me. That's what I'm here for.</p>",
       SIGNOFF
     ]
+  },
+  "article-45": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "What Cold Weather Tells You About a House",
+    body: [
+      "<p>Snow's falling today, and the cold is settling in over Northwest Indiana. If you're house hunting, don't wait for a pretty day to tour. Go on the coldest one you can.</p>",
+      "<p>Here's why: summer hides things. A house can look perfect in July and still have windows that leak air like a screen door, a furnace that's hanging on by a thread, and gutters that turn into ice dams by January. Cold weather doesn't hide any of that. It puts it right in front of you.</p>",
+      "<p>These are the five things I check at a winter showing.</p>",
+      "<p><strong>1. The furnace — and how it sounds.</strong> Ask how old it is. A furnace past 15 years isn't a dealbreaker, but it is a budget item, and you should know that before you offer. Then listen. If it kicks on and off every few minutes, it's struggling — or the house is losing heat faster than it can make it.</p>",
+      "<p><strong>2. The windows and doors.</strong> Stand next to them. Hold your hand near the edges. You can feel a bad seal in about three seconds, and new windows on a whole house are not a small bill.</p>",
+      "<p><strong>3. The pipes.</strong> Check where the plumbing runs. Pipes on outside walls are the ones that freeze. Look under the kitchen sink on an outside wall, and check the basement corners for any stain or sign of past water.</p>",
+      "<p><strong>4. The roof edge.</strong> Step outside and look up. Ice building along the gutters or icicles hanging in thick rows means heat is escaping through the roof and melting snow that refreezes at the edge. That's an ice dam forming, and it pushes water back under the shingles.</p>",
+      "<p><strong>5. The water.</strong> Run a tap and feel how fast the hot water comes — and how long it lasts. Low pressure or lukewarm water on a cold day tells you something about the water heater — and it's a five-second check.</p>",
+      "<p>One more, if you have time: drive the street after the snow. See who plows, where the cars park, and whether the sidewalks get cleared. That's your neighborhood on a normal winter day, and you'll be living with it for years.</p>",
+      "<p>The market hasn't stopped for the weather. Lake County's median sale price was $277,068 in October, up 2.6% from a year ago, and the statewide median was $278,000 in September. The 30-year rate is sitting around 7.18%. Homes are still moving — and the buyers out touring in November are the serious ones. Sellers know it.</p>",
+      "<p>So here's my takeaway: tour in the cold. If a house feels warm, quiet, and dry when it's below freezing outside, that's worth something. And if it doesn't, you just learned it before you spent a dollar on an inspection.</p>",
+      "<p>Stay warm out there.</p>",
+      SIGNOFF
+    ]
   }
 };
 
