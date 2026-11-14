@@ -814,6 +814,25 @@ var ARTICLES = {
       "<p>Stay warm out there.</p>",
       SIGNOFF
     ]
+  },
+  "article-46": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "The House That's Been Sitting for 90 Days Might Be Your Best Buy",
+    body: [
+      "<p>You know the house. You've driven past it a dozen times. It's the brick ranch on the corner in Highland, or the Cape Cod off Kennedy Avenue in Hammond, and the sign has been in the yard so long the grass grew around it.</p>",
+      "<p>Most buyers scroll right past those listings. I get it. Your first thought is: what's wrong with it?</p>",
+      "<p>Sometimes the answer is real — a roof at the end of its life, a basement that takes on water when it rains hard. But a lot of the time, it's more boring than that. It was priced too high on day one. The photos were taken on a gray afternoon and the place looks flat. The sellers wouldn't let anyone in on weekends, so nobody ever saw it.</p>",
+      "<p>Here's where Lake County sits right now: homes are averaging about 53 days on market, nearly 1 in 3 listings has had a price cut, and there's about 2.7 months of inventory out there. That's not a crash — it's a market where overpriced houses sit and priced-right ones move. And the ones sitting are your best shot at a fair deal.</p>",
+      "<p>So before I write off a stale listing, I ask three questions.</p>",
+      "<p><strong>First: why hasn't it sold?</strong> I ask the listing agent straight up. Sometimes they'll tell you. Sometimes the listing history says it: two price cuts in six weeks tells you the sellers are getting realistic.</p>",
+      "<p><strong>Second: what's changed since it listed?</strong> A house that sat through the summer at $340,000 and just dropped to $315,000 is a different conversation than it was in July. Check the price history, not just the current number.</p>",
+      "<p><strong>Third: what would it take to make it the right house at the right price?</strong> This is the one most buyers skip. Don't just decide the house is overpriced — figure out what number would make it worth it to you, and work backward from real comps on the same street, not from a gut feeling.</p>",
+      "<p>A few ground rules if you go after one. Get the inspection — every time, no exceptions, especially on a house that's been empty through a Northwest Indiana winter. An empty house in January tells you things: pipes, furnace, drafts you can feel with your hand on a cold wall. And don't lowball just because it's been sitting. An offer $40,000 under asking with nothing to back it up ends a negotiation instead of starting one. Come in with comps, come in serious, and give the sellers a reason to say yes.</p>",
+      "<p>The takeaway is simple: days on market is information, not a warning label. Read it right, and the house everyone else drove past might be the one with your name on it.</p>",
+      "<p>If you want me to pull the history on a specific house that's been sitting — what it listed at, what it cut to, what the neighbors sold for — that's what I do all day. Give me a call.</p>",
+      SIGNOFF
+    ]
   }
 };
 
