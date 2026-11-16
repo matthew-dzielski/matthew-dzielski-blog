@@ -833,6 +833,24 @@ var ARTICLES = {
       "<p>If you want me to pull the history on a specific house that's been sitting — what it listed at, what it cut to, what the neighbors sold for — that's what I do all day. Give me a call.</p>",
       SIGNOFF
     ]
+  },
+  "article-47": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "For the First Time in Years, You Actually Get to Choose",
+    body: [
+      "<p>If you tried to buy a house in Northwest Indiana two or three years ago, you remember how it went. A decent brick ranch in Highland would hit the market on a Tuesday, and by Saturday there were six offers on it and you were writing a letter about how much you loved the backyard.</p>",
+      "<p>That's not how it works right now. Indiana has more homes for sale than at any point in the last seven years — over 21,800 statewide as of September, according to the Indiana Association of REALTORS®. And fewer of them are going under contract than a year ago.</p>",
+      "<p>Now, before anyone gets too excited: prices aren't falling. The statewide median is $278,000, up about 3% from last September. And rates are still high — the 30-year fixed is sitting around 7.18%, though that's down from the 7.40% peak back in October. So no, this isn't a fire sale. What it is, is choice. And after years of take-it-or-leave-it, choice is a big deal.</p>",
+      "<p>Here's how I'd use it if I were buying right now.</p>",
+      "<p>First, tour more houses than you think you need to. When there are only three homes in your price range in Munster, you tour three. When there are twelve, you can afford to be picky — and picky is how you avoid the house with the kitchen you hate and the basement that smells like a basement. Give yourself five or six tours before you decide anything.</p>",
+      "<p>Second, compare side by side. Same money buys you different things on different streets. A $280,000 ranch in Griffith and a $280,000 two-story in Hammond are not the same house, and they're not the same life, either. Drive both neighborhoods at night. See which one feels like home.</p>",
+      "<p>Third, don't ignore the ones that have been sitting. A house that's been listed for two months with a price cut or two isn't a house with something wrong — a lot of the time it's a house that was priced too high on day one. Check the price history. That's where the room to negotiate lives.</p>",
+      "<p>And if you're selling, the other side of this is your problem to solve. Your house is competing with more listings than any time since 2019. The ones priced sharp on day one, with good photos and a clean showing, still move. The ones listed high to \"test the market\" sit — and I've written about what that costs you.</p>",
+      "<p>The takeaway is simple: for the first time in years, you get to choose. Don't waste that by rushing into the first decent house you see.</p>",
+      "<p>If you want me to pull together a shortlist in your price range — Highland, Munster, Hammond, Griffith, wherever you're looking — that's what I do all day. Give me a call.</p>",
+      SIGNOFF
+    ]
   }
 };
 
