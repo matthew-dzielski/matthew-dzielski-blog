@@ -851,6 +851,23 @@ var ARTICLES = {
       "<p>If you want me to pull together a shortlist in your price range — Highland, Munster, Hammond, Griffith, wherever you're looking — that's what I do all day. Give me a call.</p>",
       SIGNOFF
     ]
+  },
+  "article-48": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "The $820,000 House in Munster Sold in 4 Days",
+    body: [
+      "<p>Last week, a two-story house in Munster's West Lakes neighborhood sold for $820,000. It went under contract four days after it was listed. Four days.</p>",
+      "<p>I keep thinking about that number, because if you've been reading the headlines, you'd think the housing market was asleep. It's not. It's just picky.</p>",
+      "<p>The five biggest sales in Northwest Indiana last week added up to $3.48 million, and every single one of them was in Lake County. Munster took the top spot. Crown Point had two — a $724,900 ranch in Ellendale Farm and a $630,000 home on the golf course at White Hawk. And Cedar Lake had the two that really got my attention.</p>",
+      "<p>Both Cedar Lake sales were brand-new builds in the Lakeside subdivision. One sold for $650,345 — that's $35,345 above its asking price. The other sold for $650,000, which was $21,500 over asking. And here's the kicker: that second one isn't even built yet. Somebody bought a house that exists on paper, paid more than the asking price for it, and was under contract in 24 days.</p>",
+      "<p>Now, I know what you're thinking. Most of us aren't shopping at $820,000 or $650,000. Fair. But here's why this matters if your budget is $250,000 or $300,000: the top of the market is the canary. When the expensive houses are moving fast and selling over asking, it tells you buyers are out there, they're confident, and they're not waiting around for a crash that isn't coming.</p>",
+      "<p>It also tells you what actually sells a house. Look at what these five had in common. The Munster house was built in 2020 — practically new — with a heated pool and a three-car garage. The Cedar Lake homes are brand new, one level, big kitchens, nine-foot ceilings. The Crown Point ranch sits on a third of an acre in a neighborhood people actually want to live in. None of these were fixer-uppers with a \"priced to sell\" sign and crossed fingers.</p>",
+      "<p>Here's the flip side, and I've been saying this for weeks: the houses that sit are the ones that were priced too high on day one, or showed badly, or both. The market isn't frozen. It's selective. A house that's priced right and shows well moves — at $820,000, at $650,000, and at $280,000. A house that isn't, sits. That's the whole story right now.</p>",
+      "<p>So if you're selling, the lesson from last week is simple. Price it like you mean it on day one, make it look its best, and don't test the market with a number you don't believe in. And if you're buying, don't assume the good ones will wait for you. The Munster house didn't wait four days for a buyer — it waited four days for a contract.</p>",
+      "<p>If you want me to pull the recent sales on your street — what actually sold, and what it went for — that's what I do all day. Give me a call.</p>",
+      SIGNOFF
+    ]
   }
 };
 
