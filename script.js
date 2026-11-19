@@ -868,6 +868,24 @@ var ARTICLES = {
       "<p>If you want me to pull the recent sales on your street — what actually sold, and what it went for — that's what I do all day. Give me a call.</p>",
       SIGNOFF
     ]
+  },
+  "article-49": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "The house looks great with the tree up. Here's what to check anyway.",
+    body: [
+      "<p>Thanksgiving is a week away, and the houses I'm showing right now look like something out of a holiday movie. Tree up in the front window, candles lit, cinnamon in the air, lights on the roofline. It works. You walk in and the place already feels like home.</p>",
+      "<p>That's exactly why I tell my buyers to slow down and look twice.</p>",
+      "<p>I'm not saying a decorated house is hiding something. Most of the time it's just a seller who cares and wants you to picture your own holidays there. But decorations are good at covering things up, and you're buying the house, not the mood. So here's what I check when I tour a place that's all dressed up.</p>",
+      "<p>First, smell past the candles. A candle in the living room can cover a lot. Open a closet door — a linen closet, a coat closet — and take a real breath in there. That's where pet smells and old smoke hide, because nobody puts a plug-in inside a closet.</p>",
+      "<p>Second, look past the twinkle lights. A room full of warm light feels cozy at 6 PM in November. Come back in your head at noon and ask: do these windows actually bring in sun? If the only light in the room is coming from the tree, that's worth knowing before you make an offer.</p>",
+      "<p>Third, feel the windows behind the garland. A fireplace going full blast can make a whole first floor feel toasty. Put your hand near the window frames and the outside walls. We already had our first hard freeze this week — it hit about 29 degrees Sunday night into Monday — so if a room is drafty, you'll feel it now. Better to find out at a showing than on your first heating bill.</p>",
+      "<p>Fourth, look at the yard, not the wreath. Leaves and the first snow can cover a lot outside: grading that slopes toward the house, a low spot where water pools, a roof that's seen better days. Walk the whole lot. Look up at the roofline from the street. The decorations end at the front door — the yard doesn't lie.</p>",
+      "<p>And one more, because this is Northwest Indiana and basements matter here: go downstairs. Candles can't hide a damp basement. Check the corners, look for staining on the walls, and ask how old the water heater is and whether there's a sump pump. A finished basement is great. A finished basement that's hiding water is not.</p>",
+      "<p>Here's my takeaway, and it's simple: if you love a house, see it twice. Once in the evening, when it looks its best, and once in the daylight, when it can't hide. The house that's still great in flat gray November light at noon is the one worth writing an offer on.</p>",
+      "<p>Happy Thanksgiving, everyone. If you're out touring this weekend and want a second set of eyes, give me a call.</p>",
+      SIGNOFF
+    ]
   }
 };
 
