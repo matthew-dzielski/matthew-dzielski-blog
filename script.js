@@ -886,6 +886,21 @@ var ARTICLES = {
       "<p>Happy Thanksgiving, everyone. If you're out touring this weekend and want a second set of eyes, give me a call.</p>",
       SIGNOFF
     ]
+  },
+  "article-50": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What I'd tell my neighbor in Valpo about October's housing numbers",
+    body: [
+      "<p>October's numbers are out for Porter County, and the rate story flipped just this week: prices jumped, and after four weeks of easing, rates jumped back up.</p>",
+      "<p>The median sale price in Porter County hit $349,000 in October. That's up 12.6% from $309,950 a year ago, according to the Northwest Indiana Realtors Association. Only 169 homes sold, down from 178 last October, and they went under agreement in about 33 days. Sellers are still getting 97.2% of their original asking price. In plain English: fewer homes are selling, but the ones that do are selling for more, and close to asking.</p>",
+      "<p>Valparaiso did the heavy lifting. Forty sales, up from 27 a year ago, at a $343,500 median — up 11.9%. Portage came in at a $249,900 median, Chesterton at $310,000. Across the whole region, the median was $265,000, which puts Porter County about $84,000 above the rest of Northwest Indiana. That's the premium people pay to live near Valpo's downtown, the dunes, and the schools.</p>",
+      "<p>Now the other half of the story. The 30-year fixed rate averaged 7.28% this week, Freddie Mac reported — up from 7.11% last week, ending four straight weeks of easing. On a $349,000 house with 20% down, that's about $1,910 a month in principal and interest, about $32 more than last week. Still below the 7.40% peak from October, but the direction flipped. Four weeks of easing gave buyers a window. It's closed for now.</p>",
+      "<p>Here's what I'd actually do with this information. If you're selling in Porter County, you're still in a strong spot — price it right and the market is meeting you near asking. If you're buying, waiting for a big rate drop while prices climb 12.6% a year is a losing trade. The rate you get today can be refinanced later. The price you pay today can't.</p>",
+      "<p>And if you already bought a house in Porter County this year, here's the one thing you should do before December 31: file your homestead deduction. It lowers the assessed value your property tax bill is figured on, but the form has to be signed and dated by December 31 and filed with the Porter County Auditor's Office by January 5. The office is at the County Administration Center, 155 Indiana Ave. in Valparaiso, and they recommend filing in person so staff can check the form. If you moved in this year and haven't filed, that's real money you're leaving on the table.</p>",
+      "<p>October gave us a strange month — prices up, and a rate break that lasted four weeks and then snapped back. The buyers who move while the math still works tend to be the ones who look smart a year later.</p>",
+      SIGNOFF
+    ]
   }
 };
 
