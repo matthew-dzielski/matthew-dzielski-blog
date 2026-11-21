@@ -901,6 +901,24 @@ var ARTICLES = {
       "<p>October gave us a strange month — prices up, and a rate break that lasted four weeks and then snapped back. The buyers who move while the math still works tend to be the ones who look smart a year later.</p>",
       SIGNOFF
     ]
+  },
+  "article-51": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "What a $300,000 House in Northwest Indiana Actually Costs You Every Month",
+    body: [
+      "<p>Everyone asks me what a house costs. I think they're asking the wrong question. The price on the sign isn't the number that decides whether you can buy the house. The monthly payment is.</p>",
+      "<p>Rates moved again this week. The 30-year fixed is back up to 7.28%, after four weeks of easing. So let's do the real math on a $300,000 house — right about the typical sale price here in Lake County, where the average sale is running $312,539 and sellers are still getting 96.1% of what they ask.</p>",
+      "<p>Say you put 20% down. That's $60,000, and you borrow $240,000. At 7.28%, principal and interest comes to about $1,642 a month.</p>",
+      "<p>Then the two things people forget. Property taxes in Indiana average about 0.84% of the home's value — that's roughly $210 a month on a $300,000 house. Homeowners insurance runs about $2,813 a year statewide, call it $234 a month.</p>",
+      "<p>Add it up: $1,642 + $210 + $234. About $2,086 a month, all in.</p>",
+      "<p>Now the version most first-time buyers actually live in. Five percent down is $15,000, and you borrow $285,000. Principal and interest jumps to about $1,950. Then PMI shows up — roughly $120 a month until you hit 20% equity. Same taxes, same insurance. Now you're at about $2,500 a month for the same house.</p>",
+      "<p>That's the gap that matters. Not $300,000 versus $325,000. It's $2,086 versus $2,500, and it's mostly decided by your down payment, not the listing price.</p>",
+      "<p>Two more things worth knowing. First, a quarter-point move in the rate is only about $40 a month on this loan. People wait months for a rate drop that would save them less than a dinner out. Second, the usual lender rule of thumb is keeping your housing payment around 28% of your gross income — that puts the $2,086 payment at roughly $89,000 a year of household income. If you're buying with a partner, lenders count both incomes.</p>",
+      "<p>So what do you actually do with this? If the payment is close but not quite there, don't sit and wait on rates. Ask the seller for a credit toward a rate buydown. On a $300,000 house, a seller credit that buys your rate down for the first couple of years can cut your payment by a couple hundred a month — and sellers here are still getting 96.1% of asking, so the negotiation has moved to credits and terms, not the list price.</p>",
+      "<p>The house you can afford isn't the one with the right price tag. It's the one with the right monthly number. Run that number first, then go look at houses.</p>",
+      SIGNOFF
+    ]
   }
 };
 
