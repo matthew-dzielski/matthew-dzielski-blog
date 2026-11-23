@@ -919,6 +919,24 @@ var ARTICLES = {
       "<p>The house you can afford isn't the one with the right price tag. It's the one with the right monthly number. Run that number first, then go look at houses.</p>",
       SIGNOFF
     ]
+  },
+  "article-53": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Tonight It Drops to 22°. Your Pipes Are About to Find Out.",
+    body: [
+      "<p>I woke up this morning and it was already 29° outside. Tonight it drops to 22° here in Highland. Tomorrow night, 26°. Wednesday brings rain, and then it warms back up — but tonight and tomorrow night are the real deal.</p>",
+      "<p>Here's the thing nobody tells you until it's too late: pipes don't freeze when it's sort of cold. They freeze on the nights like tonight, when it drops fast and stays down for hours. And the houses that get hit aren't the old beat-up ones. They're the nice brick ranches on streets like mine, where everything looks fine from the curb.</p>",
+      "<p>A burst pipe is the most expensive \"I meant to get to it\" in homeownership. Water pours out behind a wall while you're asleep, and by morning you've got a flooded basement, ruined drywall, and a plumber charging emergency rates on a holiday week. I've seen it more times than I can count.</p>",
+      "<p>So here's what I'd do today, before bed. It takes about fifteen minutes.</p>",
+      "<p>First, unhook the garden hose. I know, it's November and you probably already did — go check anyway. A hose left on traps water in the spigot, and that's the first thing to freeze. If your house has a shutoff valve for the outside spigots, turn it off from inside and open the spigot outside to drain what's left.</p>",
+      "<p>Second, open the cabinet doors under any sink that's on an outside wall. Kitchen sink, bathroom sink, doesn't matter. The warm air from your house needs to actually reach those pipes. It sounds silly. It works.</p>",
+      "<p>Third, if you've got a faucet on an outside wall — especially one over a crawl space or a garage — let it drip tonight. Not a stream, just a slow, steady drip. Moving water doesn't freeze the way still water does. A few cents of water beats a burst pipe every single time.</p>",
+      "<p>And two more, because Thanksgiving week is coming and a lot of folks are traveling: leave your heat on if you're heading out of town. Don't set it below 55°. Saving twenty bucks on heat while you're gone is a terrible trade against a flooded house. And know where your main water shutoff is before you need it. Go look right now. It's usually in the basement or the utility room, on the wall where the water line comes in. If a pipe does burst, the first five minutes matter, and you don't want to spend them hunting.</p>",
+      "<p>That's it. Fifteen minutes, tonight, before the temperature does its thing. Your house will thank you in the morning.</p>",
+      "<p>Stay warm out there.</p>",
+      SIGNOFF
+    ]
   }
 };
 
