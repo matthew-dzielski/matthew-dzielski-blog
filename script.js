@@ -937,6 +937,21 @@ var ARTICLES = {
       "<p>Stay warm out there.</p>",
       SIGNOFF
     ]
+  },
+  "article-54": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "Thanksgiving Week Is the Quietest Week to Tour a House in NWI",
+    body: [
+      "<p>Thanksgiving is Thursday, and I can already tell you how this week goes. By Wednesday afternoon, half of Northwest Indiana is on the road or in the kitchen, and the other half is parked on the couch watching football. Nobody is touring houses.</p>",
+      "<p>And that's exactly why you should be.</p>",
+      "<p>Thanksgiving week is the quietest week of the year to look at a house around here. No bidding-war crowds at the open house. No agent trying to squeeze you in between three other showings. You get to actually walk through a place, open the closets, run the water, stand in the backyard and listen to the street. That's how you're supposed to buy a house, and most of the year you don't get the chance.</p>",
+      "<p>Here's where things stand in Lake County right now. The median list price is $302,450 — basically flat from a year ago. Homes are sitting about 54 days, and nearly 1 in 3 listings has had a price cut. New listings are down 18% from last year, so there aren't as many fresh houses hitting the market. And inventory is still tight at 2.8 months, so this isn't some fire sale. It's just... quieter. The sellers who are still listed this week are the ones who actually want to sell. That's a good person to negotiate with.</p>",
+      "<p>Cold weather is also your friend on a tour, weird as that sounds. A house hides a lot in July. In late November, you can feel the draft around a window before you even get to the front door. You can hear the furnace kick on. You can see whether the gutters are doing their job or dumping water right against the foundation. I tell my buyers to pay attention to that stuff — it's the house talking to you, and it talks loudest when it's cold.</p>",
+      "<p>So here's my takeaway, and it's simple: if you've been waiting for a little breathing room, this is it. I'm around this week, and I'd rather walk a house with you on a quiet Tuesday than rush you through one on a packed Saturday in spring. Call or text me and we'll go look at something. Worst case, you learn what you like and what you don't — and that costs you nothing but an afternoon.</p>",
+      "<p>Happy Thanksgiving. Eat well, watch the game, and if the house across the street catches your eye, you know where to find me.</p>",
+      SIGNOFF
+    ]
   }
 };
 
