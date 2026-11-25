@@ -952,6 +952,23 @@ var ARTICLES = {
       "<p>Happy Thanksgiving. Eat well, watch the game, and if the house across the street catches your eye, you know where to find me.</p>",
       SIGNOFF
     ]
+  },
+  "article-55": {
+    tag: "Homeowner tips",
+    color: "#3E8E5A",
+    title: "Bought a House in Northwest Indiana This Year? Do This Before December 31",
+    body: [
+      "<p>You're home for Thanksgiving. The turkey's in the oven, the game's on, and you've got five minutes. Spend them on the piece of paperwork that could save you $1,000 or more a year.</p>",
+      "<p>It's the homestead deduction, and if you bought a house in Northwest Indiana this year, this one is on you. Indiana doesn't file it for you.</p>",
+      "<p>Here's what it does. For the 2026 assessment, the standard homestead deduction takes $40,000 off your home's assessed value. Then the supplemental deduction takes another 40% off what's left. Run it on a $300,000 house: $300,000 minus $40,000 is $260,000, minus 40% of that is $104,000, and your taxable value lands around $156,000. Nearly half your assessed value, gone before the tax rate even applies. At local rates, that's easily $1,000-plus a year you keep.</p>",
+      "<p>But — and this is the part that trips people up — you have to file for it. Form HC10, with your county auditor. It has to be signed and dated by December 31, and filed by January 5. You can usually do it online, by mail, or in person. Lake County, that's the Auditor's office in Crown Point. Porter County, it's 155 Indiana Ave in Valparaiso.</p>",
+      "<p>Three things I tell every buyer at closing:</p>",
+      "<p>First, check whether your closing paperwork already handled it. In a lot of Indiana closings, the sales disclosure form doubles as the homestead application. That's great — if it was actually marked that way. Call the auditor's office and confirm the deduction posted. Don't assume.</p>",
+      "<p>Second, if you're closing in December, watch the deed recording. The form has to be signed by December 31, but if the deed doesn't get recorded in time, some counties will extend the filing window into January. Ask your auditor — don't guess.</p>",
+      "<p>Third, don't put this off until the new year. Miss the deadline and the deduction doesn't start until the following year. That's a full year of savings, gone, because of a form that takes ten minutes.</p>",
+      "<p>I know — nobody buys a house dreaming about tax forms. But this is the easiest money in homeownership. You already did the hard part. You bought the house. File the form, keep the money.</p>",
+      SIGNOFF
+    ]
   }
 };
 
