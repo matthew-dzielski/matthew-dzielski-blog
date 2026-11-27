@@ -953,6 +953,43 @@ var ARTICLES = {
       SIGNOFF
     ]
   },
+  "article-57": {
+    tag: "Home buying tips",
+    color: "#2E6FA8",
+    title: "The Buyers Who Win in Spring Start in December",
+    body: [
+      "<p>Everyone waits for March. I get it — spring feels like buying season. The grass is back, the listings pile up, and the whole thing feels like it's supposed to start then.</p>",
+      "<p>Here's what I've learned watching this market from Highland: the buyers who actually win in spring started in December.</p>",
+      "<p>December is the quietest month in Northwest Indiana real estate, and quiet is an advantage if you use it right. Fewer buyers are out looking. The sellers who list now usually mean it — nobody puts their house on the market two weeks before Christmas unless they're serious. And you have time to think, which is the one thing you don't get in a March bidding war.</p>",
+      "<p>So if you're planning to buy next year, here are the three things I'd do before Christmas.</p>",
+      "<p>First, get pre-approved. Not pre-qualified, pre-approved. Know your real number before you fall for a house. There's nothing worse than touring a place in Munster, picturing your couch in the living room, and then finding out the payment doesn't work. A pre-approval takes a few days and it turns you from a looker into a buyer the minute the right house shows up.</p>",
+      "<p>Second, watch the December listings. They won't be many, and that's the point. A house that hits the market in Highland or Crown Point in mid-December is usually priced by someone who wants it gone, not someone testing the water. October's numbers back this up — Lake County homes averaged 38 days on market and sold for 96.1% of asking, and Porter County was right there too at 37 days and 97.4%. That's not a frenzy and it's not a fire sale. It's a market with room to move if you're prepared.</p>",
+      "<p>Third, drive your towns on a random Tuesday. Highland, Munster, Crown Point, Valpo — a neighborhood feels different at 7 PM on a weeknight than it does on a sunny Saturday afternoon. Where do people park? Is the street quiet or is it a cut-through? Is there a train horn at 11 PM? You can't learn any of that from a listing photo, and December gives you the time to learn it before you're under pressure.</p>",
+      "<p>One more thing: rates are what they are right now — the 30-year fixed was 7.28% last week — and I don't pretend to know where they're going. What I do know is that the buyers who spent December getting ready are the ones who walk into spring with a pre-approval in hand, a short list of neighborhoods they actually know, and no surprises. That's worth more than guessing about rates.</p>",
+      "<p>So use the quiet weeks. Get the boring stuff done now, while nobody's watching. Come March, you'll be glad you did.</p>",
+      SIGNOFF
+    ]
+  },
+  "article-56": {
+    tag: "Market update",
+    color: "#8E5AA8",
+    title: "Lowell Just Took Three of the Five Biggest Sales in NWI",
+    body: [
+      "<p>I love this time of year for one reason: everybody's home, everybody's talking, and sooner or later somebody at the table asks about the housing market.</p>",
+      "<p>So here's your conversation starter for today.</p>",
+      "<p>Last week's five biggest home sales in Northwest Indiana totaled $4.84 million. All five were in Lake County. And Lowell — Lowell! — took three of the five spots.</p>",
+      "<p>The top sale was a custom-built home in Graythorne Estates, a gated community in Lowell. $1,281,523. Four bedrooms, five baths, built in 2024 on a wooded acre. Sixteen-foot patio doors, radiant heat under the floors, a golf simulator suite with 14-foot ceilings. It sold for more than the $1.275 million asking price and went under contract in 26 days.</p>",
+      "<p>Here's the part that tells you something about our market: the lot underneath that house last sold for $127,500 in 2023, before the home was built. Somebody saw what Lowell was becoming and got in early.</p>",
+      "<p>The second-biggest sale was also in Lowell. A lakefront home on 6.45 wooded acres, $1.1 million, 6,097 square feet, with a heated pool, a screened gazebo, and — I'm not making this up — a treehouse with a zip line. It sold at full asking price the same day it was listed. Same day.</p>",
+      "<p>Crown Point took the third spot with a $1 million sale in Ellendale Farm, a five-bedroom built in 2007. That house last sold for $515,000 back in 2012. And Munster rounded out the list with a $720,000 all-brick home in Briar Creek that last sold for $191,000 in 2017.</p>",
+      "<p>I bring these up for a reason, and it's not to make anybody feel priced out. It's the opposite.</p>",
+      "<p>Look at the pattern. The homes that sold fast and sold strong weren't the cheapest ones. They were the ones in the right spot, in good shape, priced honestly. The lakefront place in Lowell didn't need a price cut or a month of open houses. It was listed in the morning and gone by dinner.</p>",
+      "<p>That's the whole market right now, top to bottom. Buyers are out there. They're just picky, and they can afford to be. If your house is the one they'd pick, it moves. If it's not, it sits — and about a third of the listings in Lake County right now have already had a price cut.</p>",
+      "<p>So if you're thinking about selling next spring, the work starts now, not in March. Walk through your house like a buyer would. Fix the thing you've been meaning to fix. And if you're buying, don't sleep on Lowell. The rest of the Region is starting to notice what Lowell's been all along.</p>",
+      "<p>Happy Thanksgiving. Enjoy the people at your table — and if the conversation turns to houses, you know where to find me.</p>",
+      SIGNOFF
+    ]
+  },
   "article-55": {
     tag: "Homeowner tips",
     color: "#3E8E5A",
